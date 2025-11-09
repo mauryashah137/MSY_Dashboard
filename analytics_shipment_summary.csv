@@ -1,0 +1,16 @@
+ingredient,ingredient_norm,number_of_shipments,avg_quantity_per_shipment_grams,weeks_between_shipments
+Beef,braised beef used,3,6047.893333333333,1
+Chicken,braised chicken,2,9071.84,1
+Ramen,ramen,15,333.3333333333333,2
+Rice Noodles,rice noodles,2,11339.8,4
+Flour,flour,2,11339.8,4
+Tapioca Starch,tapioca starch,1,11339.8,4
+Rice,rice,2,11339.8,2
+Green Onion,green onion,2,4535.92,1
+White Onion,white onion,4,3000.0,1
+Cilantro,cilantro,2,1133.98,1
+Egg,egg,5,1200.0,1
+Bokchoy,bokchoy,5,2267.96,1
+Chicken Wings,chicken wings,10,3800.0,1
+Peas + Carrot,peas,3,3023.9466666666667,1
+Peas + Carrot,carrot,3,3023.9466666666667,1

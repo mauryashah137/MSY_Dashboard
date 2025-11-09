@@ -1,0 +1,127 @@
+period,ingredient,value,unit,data_type
+2025-05-01,boychoy,63650.0,g,historical
+2025-06-01,boychoy,37150.0,g,historical
+2025-07-01,boychoy,40750.0,g,historical
+2025-08-01,boychoy,44300.0,g,historical
+2025-09-01,boychoy,48900.0,g,historical
+2025-10-01,boychoy,46000.0,g,historical
+2025-11-01,boychoy,41846.66666666666,g,forecast
+2025-12-01,boychoy,40433.80952380952,g,forecast
+2026-01-01,boychoy,39020.952380952374,g,forecast
+2025-05-01,braised beef used,136360.0,g,historical
+2025-06-01,braised beef used,80480.0,g,historical
+2025-07-01,braised beef used,94200.0,g,historical
+2025-08-01,braised beef used,100600.0,g,historical
+2025-09-01,braised beef used,99400.0,g,historical
+2025-10-01,braised beef used,98500.0,g,historical
+2025-11-01,braised beef used,88976.0,g,forecast
+2025-12-01,braised beef used,85372.0,g,forecast
+2026-01-01,braised beef used,81768.0,g,forecast
+2025-05-01,braised chicken,116220.0,g,historical
+2025-06-01,braised chicken,64760.0,g,historical
+2025-07-01,braised chicken,73000.0,g,historical
+2025-08-01,braised chicken,87060.0,g,historical
+2025-09-01,braised chicken,90400.0,g,historical
+2025-10-01,braised chicken,89420.0,g,historical
+2025-11-01,braised chicken,82508.0,g,forecast
+2025-12-01,braised chicken,81278.85714285714,g,forecast
+2026-01-01,braised chicken,80049.71428571429,g,forecast
+2025-05-01,braised pork,66520.0,g,historical
+2025-06-01,braised pork,34800.0,g,historical
+2025-07-01,braised pork,38960.0,g,historical
+2025-08-01,braised pork,51980.0,g,historical
+2025-09-01,braised pork,70360.0,g,historical
+2025-10-01,braised pork,65460.0,g,historical
+2025-11-01,braised pork,66120.0,g,forecast
+2025-12-01,braised pork,69388.57142857142,g,forecast
+2026-01-01,braised pork,72657.14285714286,g,forecast
+2025-05-01,carrot,1250.0,g,historical
+2025-06-01,carrot,770.0,g,historical
+2025-07-01,carrot,750.0,g,historical
+2025-08-01,carrot,2320.0,g,historical
+2025-09-01,carrot,2510.0,g,historical
+2025-10-01,carrot,3120.0,g,historical
+2025-11-01,carrot,3400.666666666667,g,forecast
+2025-12-01,carrot,3861.809523809524,g,forecast
+2026-01-01,carrot,4322.952380952382,g,forecast
+2025-05-01,cilantro,43800.0,units,historical
+2025-06-01,cilantro,24620.0,units,historical
+2025-07-01,cilantro,28380.0,units,historical
+2025-08-01,cilantro,30920.0,units,historical
+2025-09-01,cilantro,33580.0,units,historical
+2025-10-01,cilantro,31740.0,units,historical
+2025-11-01,cilantro,29085.333333333332,units,forecast
+2025-12-01,cilantro,28203.04761904762,units,forecast
+2026-01-01,cilantro,27320.761904761905,units,forecast
+2025-05-01,egg,1220.0,count,historical
+2025-06-01,egg,692.5,count,historical
+2025-07-01,egg,784.5,count,historical
+2025-08-01,egg,1005.0,count,historical
+2025-09-01,egg,1090.5,count,historical
+2025-10-01,egg,1105.5,count,historical
+2025-11-01,egg,1067.2,count,forecast
+2025-12-01,egg,1091.257142857143,count,forecast
+2026-01-01,egg,1115.3142857142857,count,forecast
+2025-05-01,green onion,46300.0,units,historical
+2025-06-01,green onion,26160.0,units,historical
+2025-07-01,green onion,29880.0,units,historical
+2025-08-01,green onion,35560.0,units,historical
+2025-09-01,green onion,38600.0,units,historical
+2025-10-01,green onion,37980.0,units,historical
+2025-11-01,green onion,35886.666666666664,units,forecast
+2025-12-01,green onion,35926.666666666664,units,forecast
+2026-01-01,green onion,35966.666666666664,units,forecast
+2025-05-01,peas,1250.0,g,historical
+2025-06-01,peas,770.0,g,historical
+2025-07-01,peas,750.0,g,historical
+2025-08-01,peas,2320.0,g,historical
+2025-09-01,peas,2510.0,g,historical
+2025-10-01,peas,3120.0,g,historical
+2025-11-01,peas,3400.666666666667,g,forecast
+2025-12-01,peas,3861.809523809524,g,forecast
+2026-01-01,peas,4322.952380952382,g,forecast
+2025-05-01,pickle cabbage,52300.0,units,historical
+2025-06-01,pickle cabbage,28950.0,units,historical
+2025-07-01,pickle cabbage,32600.0,units,historical
+2025-08-01,pickle cabbage,27300.0,units,historical
+2025-09-01,pickle cabbage,26350.0,units,historical
+2025-10-01,pickle cabbage,24000.0,units,historical
+2025-11-01,pickle cabbage,16456.666666666668,units,forecast
+2025-12-01,pickle cabbage,12039.52380952381,units,forecast
+2026-01-01,pickle cabbage,7622.380952380954,units,forecast
+2025-05-01,ramen,1620.0,count,historical
+2025-06-01,ramen,890.0,count,historical
+2025-07-01,ramen,1067.0,count,historical
+2025-08-01,ramen,1113.0,count,historical
+2025-09-01,ramen,1232.0,count,historical
+2025-10-01,ramen,1195.0,count,historical
+2025-11-01,ramen,1080.8666666666668,count,forecast
+2025-12-01,ramen,1050.7809523809526,count,forecast
+2026-01-01,ramen,1020.6952380952383,count,forecast
+2025-05-01,rice,43750.0,g,historical
+2025-06-01,rice,26950.0,g,historical
+2025-07-01,rice,26250.0,g,historical
+2025-08-01,rice,81200.0,g,historical
+2025-09-01,rice,87850.0,g,historical
+2025-10-01,rice,109200.0,g,historical
+2025-11-01,rice,119023.33333333334,g,forecast
+2025-12-01,rice,135163.33333333334,g,forecast
+2026-01-01,rice,151303.33333333334,g,forecast
+2025-05-01,rice noodles,171000.0,g,historical
+2025-06-01,rice noodles,102300.0,g,historical
+2025-07-01,rice noodles,105600.0,g,historical
+2025-08-01,rice noodles,129900.0,g,historical
+2025-09-01,rice noodles,134100.0,g,historical
+2025-10-01,rice noodles,117600.0,g,historical
+2025-11-01,rice noodles,112020.0,g,forecast
+2025-12-01,rice noodles,107811.42857142858,g,forecast
+2026-01-01,rice noodles,103602.85714285716,g,forecast
+2025-05-01,white onion,2500.0,units,historical
+2025-06-01,white onion,1540.0,units,historical
+2025-07-01,white onion,1500.0,units,historical
+2025-08-01,white onion,4640.0,units,historical
+2025-09-01,white onion,5020.0,units,historical
+2025-10-01,white onion,6240.0,units,historical
+2025-11-01,white onion,6801.333333333334,units,forecast
+2025-12-01,white onion,7723.619047619048,units,forecast
+2026-01-01,white onion,8645.904761904763,units,forecast

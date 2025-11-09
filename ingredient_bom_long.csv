@@ -1,0 +1,99 @@
+item_name,ingredient,quantity_per_item,unit,ingredient_norm,item_norm
+Beef Fried Rice,braised beef used,100.0,g,braised beef used,beef fried rice
+Beef Fried Rice,carrot,10.0,g,carrot,beef fried rice
+Beef Fried Rice,egg,1.0,count,egg,beef fried rice
+Beef Fried Rice,green onion,20.0,units,green onion,beef fried rice
+Beef Fried Rice,peas,10.0,g,peas,beef fried rice
+Beef Fried Rice,rice,350.0,g,rice,beef fried rice
+Beef Fried Rice,white onion,20.0,units,white onion,beef fried rice
+Beef Ramen,braised beef used,140.0,g,braised beef used,beef ramen
+Beef Ramen,cilantro,20.0,units,cilantro,beef ramen
+Beef Ramen,egg,0.5,count,egg,beef ramen
+Beef Ramen,green onion,20.0,units,green onion,beef ramen
+Beef Ramen,ramen,1.0,count,ramen,beef ramen
+Beef Rice Noodle Soup,boychoy,50.0,g,boychoy,beef rice noodle soup
+Beef Rice Noodle Soup,braised beef used,140.0,g,braised beef used,beef rice noodle soup
+Beef Rice Noodle Soup,cilantro,20.0,units,cilantro,beef rice noodle soup
+Beef Rice Noodle Soup,egg,0.5,count,egg,beef rice noodle soup
+Beef Rice Noodle Soup,green onion,20.0,units,green onion,beef rice noodle soup
+Beef Rice Noodle Soup,rice noodles,300.0,g,rice noodles,beef rice noodle soup
+Beef Tossed Ramen,boychoy,50.0,g,boychoy,beef tossed ramen
+Beef Tossed Ramen,braised beef used,140.0,g,braised beef used,beef tossed ramen
+Beef Tossed Ramen,cilantro,20.0,units,cilantro,beef tossed ramen
+Beef Tossed Ramen,egg,0.5,count,egg,beef tossed ramen
+Beef Tossed Ramen,green onion,20.0,units,green onion,beef tossed ramen
+Beef Tossed Ramen,pickle cabbage,50.0,units,pickle cabbage,beef tossed ramen
+Beef Tossed Ramen,ramen,1.0,count,ramen,beef tossed ramen
+Beef Tossed Rice Noodles,braised beef used,140.0,g,braised beef used,beef tossed rice noodles
+Beef Tossed Rice Noodles,cilantro,20.0,units,cilantro,beef tossed rice noodles
+Beef Tossed Rice Noodles,egg,0.5,count,egg,beef tossed rice noodles
+Beef Tossed Rice Noodles,green onion,20.0,units,green onion,beef tossed rice noodles
+Beef Tossed Rice Noodles,pickle cabbage,50.0,units,pickle cabbage,beef tossed rice noodles
+Beef Tossed Rice Noodles,rice noodles,300.0,g,rice noodles,beef tossed rice noodles
+Chicken Cutlet,chicken thigh,1.0,pcs,chicken thigh,chicken cutlet
+Chicken Cutlet,egg,0.5,count,egg,chicken cutlet
+Chicken Cutlet,tapioca starch,60.0,units,tapioca starch,chicken cutlet
+Chicken Fried Rice,braised chicken,100.0,g,braised chicken,chicken fried rice
+Chicken Fried Rice,carrot,10.0,g,carrot,chicken fried rice
+Chicken Fried Rice,egg,1.0,count,egg,chicken fried rice
+Chicken Fried Rice,green onion,20.0,units,green onion,chicken fried rice
+Chicken Fried Rice,peas,10.0,g,peas,chicken fried rice
+Chicken Fried Rice,rice,350.0,g,rice,chicken fried rice
+Chicken Fried Rice,white onion,20.0,units,white onion,chicken fried rice
+Chicken Ramen,boychoy,50.0,g,boychoy,chicken ramen
+Chicken Ramen,braised chicken,140.0,g,braised chicken,chicken ramen
+Chicken Ramen,cilantro,20.0,units,cilantro,chicken ramen
+Chicken Ramen,egg,0.5,count,egg,chicken ramen
+Chicken Ramen,green onion,20.0,units,green onion,chicken ramen
+Chicken Ramen,ramen,1.0,count,ramen,chicken ramen
+Chicken Rice Noodle Soup,boychoy,50.0,g,boychoy,chicken rice noodle soup
+Chicken Rice Noodle Soup,braised chicken,140.0,g,braised chicken,chicken rice noodle soup
+Chicken Rice Noodle Soup,cilantro,20.0,units,cilantro,chicken rice noodle soup
+Chicken Rice Noodle Soup,egg,0.5,count,egg,chicken rice noodle soup
+Chicken Rice Noodle Soup,green onion,20.0,units,green onion,chicken rice noodle soup
+Chicken Rice Noodle Soup,rice noodles,300.0,g,rice noodles,chicken rice noodle soup
+Chicken Tossed Ramen,braised chicken,140.0,g,braised chicken,chicken tossed ramen
+Chicken Tossed Ramen,cilantro,20.0,units,cilantro,chicken tossed ramen
+Chicken Tossed Ramen,egg,0.5,count,egg,chicken tossed ramen
+Chicken Tossed Ramen,green onion,20.0,units,green onion,chicken tossed ramen
+Chicken Tossed Ramen,pickle cabbage,50.0,units,pickle cabbage,chicken tossed ramen
+Chicken Tossed Ramen,ramen,1.0,count,ramen,chicken tossed ramen
+Chicken Tossed Rice Noodles,braised chicken,140.0,g,braised chicken,chicken tossed rice noodles
+Chicken Tossed Rice Noodles,cilantro,20.0,units,cilantro,chicken tossed rice noodles
+Chicken Tossed Rice Noodles,egg,0.5,count,egg,chicken tossed rice noodles
+Chicken Tossed Rice Noodles,green onion,20.0,units,green onion,chicken tossed rice noodles
+Chicken Tossed Rice Noodles,pickle cabbage,50.0,units,pickle cabbage,chicken tossed rice noodles
+Chicken Tossed Rice Noodles,rice noodles,300.0,g,rice noodles,chicken tossed rice noodles
+Fried Wings,chicken wings,8.0,pcs,chicken wings,fried wings
+Fried Wings,flour,50.0,g,flour,fried wings
+Pork Fried Rice,braised pork,100.0,g,braised pork,pork fried rice
+Pork Fried Rice,carrot,10.0,g,carrot,pork fried rice
+Pork Fried Rice,egg,1.0,count,egg,pork fried rice
+Pork Fried Rice,green onion,20.0,units,green onion,pork fried rice
+Pork Fried Rice,peas,10.0,g,peas,pork fried rice
+Pork Fried Rice,rice,350.0,g,rice,pork fried rice
+Pork Fried Rice,white onion,20.0,units,white onion,pork fried rice
+Pork Ramen,boychoy,50.0,g,boychoy,pork ramen
+Pork Ramen,braised pork,140.0,g,braised pork,pork ramen
+Pork Ramen,cilantro,20.0,units,cilantro,pork ramen
+Pork Ramen,egg,0.5,count,egg,pork ramen
+Pork Ramen,green onion,20.0,units,green onion,pork ramen
+Pork Ramen,ramen,1.0,count,ramen,pork ramen
+Pork Rice Noodle Soup,boychoy,50.0,g,boychoy,pork rice noodle soup
+Pork Rice Noodle Soup,braised pork,140.0,g,braised pork,pork rice noodle soup
+Pork Rice Noodle Soup,cilantro,20.0,units,cilantro,pork rice noodle soup
+Pork Rice Noodle Soup,egg,0.5,count,egg,pork rice noodle soup
+Pork Rice Noodle Soup,green onion,20.0,units,green onion,pork rice noodle soup
+Pork Rice Noodle Soup,rice noodles,300.0,g,rice noodles,pork rice noodle soup
+Pork Tossed Ramen,braised pork,140.0,g,braised pork,pork tossed ramen
+Pork Tossed Ramen,cilantro,20.0,units,cilantro,pork tossed ramen
+Pork Tossed Ramen,egg,0.5,count,egg,pork tossed ramen
+Pork Tossed Ramen,green onion,20.0,units,green onion,pork tossed ramen
+Pork Tossed Ramen,pickle cabbage,50.0,units,pickle cabbage,pork tossed ramen
+Pork Tossed Ramen,ramen,1.0,count,ramen,pork tossed ramen
+Pork Tossed Rice Noodles,braised pork,140.0,g,braised pork,pork tossed rice noodles
+Pork Tossed Rice Noodles,cilantro,20.0,units,cilantro,pork tossed rice noodles
+Pork Tossed Rice Noodles,egg,0.5,count,egg,pork tossed rice noodles
+Pork Tossed Rice Noodles,green onion,20.0,units,green onion,pork tossed rice noodles
+Pork Tossed Rice Noodles,pickle cabbage,50.0,units,pickle cabbage,pork tossed rice noodles
+Pork Tossed Rice Noodles,rice noodles,300.0,g,rice noodles,pork tossed rice noodles

@@ -1,0 +1,12 @@
+ingredient,avg_monthly_forecast,qty_per_shipment_g,shipments_needed_per_month,frequency
+braised beef used,85372.0,18143.68,5.0,weekly
+braised chicken,81278.85714285714,18143.68,5.0,weekly
+carrot,3861.8095238095243,9071.84,1.0,weekly
+cilantro,28203.04761904762,2267.96,13.0,weekly
+egg,1091.257142857143,6000.0,1.0,weekly
+green onion,35926.666666666664,9071.84,4.0,weekly
+peas,3861.8095238095243,9071.84,1.0,weekly
+ramen,1050.7809523809526,5000.0,1.0,biweekly
+rice,135163.33333333334,22679.6,6.0,Biweekly
+rice noodles,107811.42857142858,22679.6,5.0,monthly
+white onion,7723.619047619049,12000.0,1.0,weekly

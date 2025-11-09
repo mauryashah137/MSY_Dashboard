@@ -1,0 +1,796 @@
+source_page,source_table,group,count,amount,source_sheet,category,item,source_file,period,item_norm
+1,1,Lunch Menu,269.0,3783.26,data 1,,,May_Data_Matrix (1),2025-05,lunch menu
+1,1,Open Food,2.0,4.52,data 1,,,May_Data_Matrix (1),2025-05,open food
+1,1,All Day Menu,,61296.15,data 1,,,May_Data_Matrix (1),2025-05,all day menu
+1,1,Fried Chicken,787.0,7935.26,data 2,Fried Chicken,,May_Data_Matrix (1),2025-05,fried chicken
+1,1,Combo Items,0.0,0.0,data 2,Combo Items,,May_Data_Matrix (1),2025-05,combo items
+1,1,Drink,,2922.54,data 2,Drink,,May_Data_Matrix (1),2025-05,drink
+1,1,Additonal,175.0,358.48,data 2,Additonal,,May_Data_Matrix (1),2025-05,additonal
+1,1,Rice Noodle,524.0,7698.91,data 2,Rice Noodle,,May_Data_Matrix (1),2025-05,rice noodle
+1,1,Wonton,50.0,546.94,data 2,Wonton,,May_Data_Matrix (1),2025-05,wonton
+1,1,Milk Tea,244.0,1108.72,data 2,Milk Tea,,May_Data_Matrix (1),2025-05,milk tea
+1,1,Combo Items Donot Delete,0.0,0.0,data 2,Combo Items Donot Delete,,May_Data_Matrix (1),2025-05,combo items donot delete
+1,1,Appetizer,,6217.05,data 2,Appetizer,,May_Data_Matrix (1),2025-05,appetizer
+1,1,Ramen,816.0,12118.38,data 2,Ramen,,May_Data_Matrix (1),2025-05,ramen
+1,1,Tossed Rice Noodle,398.0,6000.15,data 2,Tossed Rice Noodle,,May_Data_Matrix (1),2025-05,tossed rice noodle
+1,1,Lunch Special,269.0,3783.26,data 2,Lunch Special,,May_Data_Matrix (1),2025-05,lunch special
+1,1,Tossed Ramen,941.0,13539.42,data 2,Tossed Ramen,,May_Data_Matrix (1),2025-05,tossed ramen
+1,1,Fried Rice,214.0,2850.3,data 2,Fried Rice,,May_Data_Matrix (1),2025-05,fried rice
+1,1,Open Food,2.0,4.52,data 2,Open Food,,May_Data_Matrix (1),2025-05,open food
+1,1,Beef Tossed Ramen,468.0,6921.26,data 3,,Beef Tossed Ramen,May_Data_Matrix (1),2025-05,beef tossed ramen
+1,1,Beef Ramen,339.0,5045.65,data 3,,Beef Ramen,May_Data_Matrix (1),2025-05,beef ramen
+1,1,Lunch Special,269.0,3783.26,data 3,,Lunch Special,May_Data_Matrix (1),2025-05,lunch special
+1,1,Pork Tossed Ramen,260.0,3526.47,data 3,,Pork Tossed Ramen,May_Data_Matrix (1),2025-05,pork tossed ramen
+1,1,Chicken Rice Noodle Soup,233.0,3303.84,data 3,,Chicken Rice Noodle Soup,May_Data_Matrix (1),2025-05,chicken rice noodle soup
+1,1,Chicken Ramen,222.0,3313.0,data 3,,Chicken Ramen,May_Data_Matrix (1),2025-05,chicken ramen
+1,1,Mai Special Fried Chicken(8),309.0,3089.87,data 3,,Mai Special Fried Chicken(8),May_Data_Matrix (1),2025-05,mai special fried chicken(8)
+1,1,Beef Tossed Rice Noodle,195.0,3102.44,data 3,,Beef Tossed Rice Noodle,May_Data_Matrix (1),2025-05,beef tossed rice noodle
+1,1,Chicken Tossed Ramen,200.0,2906.3,data 3,,Chicken Tossed Ramen,May_Data_Matrix (1),2025-05,chicken tossed ramen
+1,1,Beef Rice Noodle Soup,147.0,2316.04,data 3,,Beef Rice Noodle Soup,May_Data_Matrix (1),2025-05,beef rice noodle soup
+1,1,Pork Ramen,131.0,1845.21,data 3,,Pork Ramen,May_Data_Matrix (1),2025-05,pork ramen
+1,1,Chicken Tossed Rice Noodles,118.0,1726.89,data 3,,Chicken Tossed Rice Noodles,May_Data_Matrix (1),2025-05,chicken tossed rice noodles
+1,1,House Ramen,91.0,1474.52,data 3,,House Ramen,May_Data_Matrix (1),2025-05,house ramen
+1,1,Mai's Golden Flake Fried Chicken(8),138.0,1378.05,data 3,,Mai's Golden Flake Fried Chicken(8),May_Data_Matrix (1),2025-05,mai's golden flake fried chicken(8)
+1,1,Fried Pork Dumplings(10),119.0,1063.71,data 3,,Fried Pork Dumplings(10),May_Data_Matrix (1),2025-05,fried pork dumplings(10)
+1,1,Pork Tossed Rice Noodle,72.0,992.7,data 3,,Pork Tossed Rice Noodle,May_Data_Matrix (1),2025-05,pork tossed rice noodle
+2,1,Golden Coconut Crunch Chicken(8),96.0,982.35,data 3,,Golden Coconut Crunch Chicken(8),May_Data_Matrix (1),2025-05,golden coconut crunch chicken(8)
+2,1,Pork Rice Noodle Soup,72.0,986.46,data 3,,Pork Rice Noodle Soup,May_Data_Matrix (1),2025-05,pork rice noodle soup
+2,1,Chicken Fried Rice,80.0,1000.1,data 3,,Chicken Fried Rice,May_Data_Matrix (1),2025-05,chicken fried rice
+2,1,Mai OG Fried Chicken Wings(4),193.0,960.71,data 3,,Mai OG Fried Chicken Wings(4),May_Data_Matrix (1),2025-05,mai og fried chicken wings(4)
+2,1,Brown Sugar Milk Tea w. Boba (24oz),196.0,888.71,data 3,,Brown Sugar Milk Tea w. Boba (24oz),May_Data_Matrix (1),2025-05,brown sugar milk tea w. boba (24oz)
+2,1,Steam Pork Dumplings(10),94.0,819.22,data 3,,Steam Pork Dumplings(10),May_Data_Matrix (1),2025-05,steam pork dumplings(10)
+2,1,Crispy Spring Roll(3),185.0,726.44,data 3,,Crispy Spring Roll(3),May_Data_Matrix (1),2025-05,crispy spring roll(3)
+2,1,House Rice Noodle Soup,42.0,684.02,data 3,,House Rice Noodle Soup,May_Data_Matrix (1),2025-05,house rice noodle soup
+2,1,House Fried Rice,46.0,692.23,data 3,,House Fried Rice,May_Data_Matrix (1),2025-05,house fried rice
+2,1,Tempura Shrimp(3),138.0,674.01,data 3,,Tempura Shrimp(3),May_Data_Matrix (1),2025-05,tempura shrimp(3)
+2,1,Crispy Pork Egg Roll(3),162.0,651.24,data 3,,Crispy Pork Egg Roll(3),May_Data_Matrix (1),2025-05,crispy pork egg roll(3)
+2,1,Onion Glory Fried Chicken(8),59.0,589.13,data 3,,Onion Glory Fried Chicken(8),May_Data_Matrix (1),2025-05,onion glory fried chicken(8)
+2,1,Strawberry Sunrise Tea,152.0,555.16,data 3,,Strawberry Sunrise Tea,May_Data_Matrix (1),2025-05,strawberry sunrise tea
+2,1,Sichuan Chili Wontons,50.0,546.94,data 3,,Sichuan Chili Wontons,May_Data_Matrix (1),2025-05,sichuan chili wontons
+2,1,Vegetable Ramen,33.0,440.0,data 3,,Vegetable Ramen,May_Data_Matrix (1),2025-05,vegetable ramen
+2,1,Vegetable Rice Noodle Soup,30.0,408.55,data 3,,Vegetable Rice Noodle Soup,May_Data_Matrix (1),2025-05,vegetable rice noodle soup
+2,1,Citrus Honey Fried Chicken  (8),43.0,434.87,data 3,,Citrus Honey Fried Chicken  (8),May_Data_Matrix (1),2025-05,citrus honey fried chicken  (8)
+2,1,Beef Fried Rice,28.0,377.5,data 3,,Beef Fried Rice,May_Data_Matrix (1),2025-05,beef fried rice
+2,1,Shrimp Fried Rice,29.0,389.91,data 3,,Shrimp Fried Rice,May_Data_Matrix (1),2025-05,shrimp fried rice
+2,1,Mai Buffalo Chicken Wings(8),35.0,346.69,data 3,,Mai Buffalo Chicken Wings(8),May_Data_Matrix (1),2025-05,mai buffalo chicken wings(8)
+2,1,Golden kiwi,87.0,316.02,data 3,,Golden kiwi,May_Data_Matrix (1),2025-05,golden kiwi
+2,1,Dr. Pepper,118.0,344.71,data 3,,Dr. Pepper,May_Data_Matrix (1),2025-05,dr. pepper
+3,1,Cream Cheese Wonton（6）,60.0,352.83,data 3,,Cream Cheese Wonton（6）,May_Data_Matrix (1),2025-05,cream cheese wonton（6）
+3,1,Specialty Drink,115.0,338.5,data 3,,Specialty Drink,May_Data_Matrix (1),2025-05,specialty drink
+3,1,Diet Pepsi,97.0,284.98,data 3,,Diet Pepsi,May_Data_Matrix (1),2025-05,diet pepsi
+3,1,Spicy Cucumber Salad,46.0,249.14,data 3,,Spicy Cucumber Salad,May_Data_Matrix (1),2025-05,spicy cucumber salad
+3,1,Pepsi,83.0,238.52,data 3,,Pepsi,May_Data_Matrix (1),2025-05,pepsi
+3,1,Cream Cheese Rangoon(6),47.0,263.68,data 3,,Cream Cheese Rangoon(6),May_Data_Matrix (1),2025-05,cream cheese rangoon(6)
+3,1,Pork Fried Rice,17.0,213.55,data 3,,Pork Fried Rice,May_Data_Matrix (1),2025-05,pork fried rice
+3,1,Sweet Ice Tea,79.0,228.04,data 3,,Sweet Ice Tea,May_Data_Matrix (1),2025-05,sweet ice tea
+3,1,Unsweet Ice Tea,69.0,197.17,data 3,,Unsweet Ice Tea,May_Data_Matrix (1),2025-05,unsweet ice tea
+3,1,Crispy French Fries,47.0,184.56,data 3,,Crispy French Fries,May_Data_Matrix (1),2025-05,crispy french fries
+3,1,BF chicken cutlet combo,20.0,242.53,data 3,,BF chicken cutlet combo,May_Data_Matrix (1),2025-05,bf chicken cutlet combo
+3,1,Wasabi Spiced Fried Chicken (8),16.0,158.84,data 3,,Wasabi Spiced Fried Chicken (8),May_Data_Matrix (1),2025-05,wasabi spiced fried chicken (8)
+3,1,Tangy Honey Mustard Fried Chicken (8),19.0,186.57,data 3,,Tangy Honey Mustard Fried Chicken (8),May_Data_Matrix (1),2025-05,tangy honey mustard fried chicken (8)
+3,1,Vegetable Fried Rice,14.0,177.0,data 3,,Vegetable Fried Rice,May_Data_Matrix (1),2025-05,vegetable fried rice
+3,1,Milk Tea(20oz),31.0,153.81,data 3,,Milk Tea(20oz),May_Data_Matrix (1),2025-05,milk tea(20oz)
+3,1,Vegetable Tossed Ramen,11.0,153.95,data 3,,Vegetable Tossed Ramen,May_Data_Matrix (1),2025-05,vegetable tossed ramen
+3,1,Wasabi Spiced Fried Chicken(8),12.0,138.88,data 3,,Wasabi Spiced Fried Chicken(8),May_Data_Matrix (1),2025-05,wasabi spiced fried chicken(8)
+3,1,Tangy Honey Mustard Fried Chicken(8),11.0,129.49,data 3,,Tangy Honey Mustard Fried Chicken(8),May_Data_Matrix (1),2025-05,tangy honey mustard fried chicken(8)
+3,1,Chili Pepper Fried Chicken（8）,13.0,129.11,data 3,,Chili Pepper Fried Chicken（8）,May_Data_Matrix (1),2025-05,chili pepper fried chicken（8）
+3,1,Starry - Sprite,45.0,132.29,data 3,,Starry - Sprite,May_Data_Matrix (1),2025-05,starry - sprite
+3,1,Braised Chicken Thigh,36.0,106.77,data 3,,Braised Chicken Thigh,May_Data_Matrix (1),2025-05,braised chicken thigh
+3,1,Vegetable Tossed Rice Noodle,9.0,114.96,data 3,,Vegetable Tossed Rice Noodle,May_Data_Matrix (1),2025-05,vegetable tossed rice noodle
+4,1,Brown Sugar Rice Cake,22.0,117.14,data 3,,Brown Sugar Rice Cake,May_Data_Matrix (1),2025-05,brown sugar rice cake
+4,1,Lemonade,35.0,100.73,data 3,,Lemonade,May_Data_Matrix (1),2025-05,lemonade
+4,1,Jumbo Chicken Tender (3),19.0,90.93,data 3,,Jumbo Chicken Tender (3),May_Data_Matrix (1),2025-05,jumbo chicken tender (3)
+4,1,House Tossed Rice Noodle,4.0,63.16,data 3,,House Tossed Rice Noodle,May_Data_Matrix (1),2025-05,house tossed rice noodle
+4,1,Chili Pepper Fried Chicken (8),6.0,62.94,data 3,,Chili Pepper Fried Chicken (8),May_Data_Matrix (1),2025-05,chili pepper fried chicken (8)
+4,1,Brown Sugar Milk Tea NO BOBA (24oz),17.0,66.2,data 3,,Brown Sugar Milk Tea NO BOBA (24oz),May_Data_Matrix (1),2025-05,brown sugar milk tea no boba (24oz)
+4,1,White Rice - DINE IN,52.0,52.44,data 3,,White Rice - DINE IN,May_Data_Matrix (1),2025-05,white rice - dine in
+4,1,Bottled Soda,21.0,42.19,data 3,,Bottled Soda,May_Data_Matrix (1),2025-05,bottled soda
+4,1,Hot Tea,13.0,38.39,data 3,,Hot Tea,May_Data_Matrix (1),2025-05,hot tea
+4,1,Crispy French Fries(LG),8.0,33.92,data 3,,Crispy French Fries(LG),May_Data_Matrix (1),2025-05,crispy french fries(lg)
+4,1,BF chicken cutlet,10.0,65.93,data 3,,BF chicken cutlet,May_Data_Matrix (1),2025-05,bf chicken cutlet
+4,1,Plain Fried Rice,15.0,45.49,data 3,,Plain Fried Rice,May_Data_Matrix (1),2025-05,plain fried rice
+4,1,Orange Crush,10.0,29.74,data 3,,Orange Crush,May_Data_Matrix (1),2025-05,orange crush
+4,1,Rice Noodle,17.0,25.8,data 3,,Rice Noodle,May_Data_Matrix (1),2025-05,rice noodle
+4,1,White Rice-To Go,6.0,21.0,data 3,,White Rice-To Go,May_Data_Matrix (1),2025-05,white rice-to go
+4,1,Sweet Sesame Ball,5.0,25.02,data 3,,Sweet Sesame Ball,May_Data_Matrix (1),2025-05,sweet sesame ball
+4,1,White Rice,5.0,20.16,data 3,,White Rice,May_Data_Matrix (1),2025-05,white rice
+4,1,House Tossed Ramen,2.0,31.44,data 3,,House Tossed Ramen,May_Data_Matrix (1),2025-05,house tossed ramen
+4,1,Ramune - Original,4.0,13.76,data 3,,Ramune - Original,May_Data_Matrix (1),2025-05,ramune - original
+4,1,Chunked Beef,4.0,15.96,data 3,,Chunked Beef,May_Data_Matrix (1),2025-05,chunked beef
+4,1,Braised Chicken,5.0,16.9,data 3,,Braised Chicken,May_Data_Matrix (1),2025-05,braised chicken
+4,1,soup to go,7.0,10.47,data 3,,soup to go,May_Data_Matrix (1),2025-05,soup to go
+5,1,Ramen,6.0,9.0,data 3,,Ramen,May_Data_Matrix (1),2025-05,ramen
+5,1,Mai‘s Special Sauce,11.0,10.72,data 3,,Mai‘s Special Sauce,May_Data_Matrix (1),2025-05,mai‘s special sauce
+5,1,北冰洋 Orange Soda,2.0,7.18,data 3,,北冰洋 Orange Soda,May_Data_Matrix (1),2025-05,北冰洋 orange soda
+5,1,Pepsi Zero,2.0,7.18,data 3,,Pepsi Zero,May_Data_Matrix (1),2025-05,pepsi zero
+5,1,Sweet Tea,2.0,7.18,data 3,,Sweet Tea,May_Data_Matrix (1),2025-05,sweet tea
+5,1,Braised Pork,3.0,9.22,data 3,,Braised Pork,May_Data_Matrix (1),2025-05,braised pork
+5,1,Shrimp,2.0,5.98,data 3,,Shrimp,May_Data_Matrix (1),2025-05,shrimp
+5,1,Bottled Water,3.0,5.97,data 3,,Bottled Water,May_Data_Matrix (1),2025-05,bottled water
+5,1,Open Food,2.0,4.52,data 3,,Open Food,May_Data_Matrix (1),2025-05,open food
+5,1,Braised Egg,2.0,4.3,data 3,,Braised Egg,May_Data_Matrix (1),2025-05,braised egg
+5,1,Mai‘s special Sauce,4.0,4.26,data 3,,Mai‘s special Sauce,May_Data_Matrix (1),2025-05,mai‘s special sauce
+5,1,Ramune - Orange,1.0,3.59,data 3,,Ramune - Orange,May_Data_Matrix (1),2025-05,ramune - orange
+5,1,Starry,1.0,3.59,data 3,,Starry,May_Data_Matrix (1),2025-05,starry
+5,1,Ramune - Melon,1.0,2.99,data 3,,Ramune - Melon,May_Data_Matrix (1),2025-05,ramune - melon
+5,1,Ramune - Strawberry,2.0,6.28,data 3,,Ramune - Strawberry,May_Data_Matrix (1),2025-05,ramune - strawberry
+5,1,Water,,0.0,data 3,,Water,May_Data_Matrix (1),2025-05,water
+5,1,Sweet Sesame Ball (6) w. red bean,1.0,4.5,data 3,,Sweet Sesame Ball (6) w. red bean,May_Data_Matrix (1),2025-05,sweet sesame ball (6) w. red bean
+5,1,Golden kiwi,5.0,18.38,data 3,,Golden kiwi,May_Data_Matrix (1),2025-05,golden kiwi
+1,1,Lunch Menu,222.0,3089.08,data 1,,,June_Data_Matrix,2025-06,lunch menu
+1,1,All Day Menu,,39433.25,data 1,,,June_Data_Matrix,2025-06,all day menu
+1,1,Open Food,1.0,5.0,data 1,,,June_Data_Matrix,2025-06,open food
+1,1,Tossed Ramen,510.0,7287.69,data 2,Tossed Ramen,,June_Data_Matrix,2025-06,tossed ramen
+1,1,Tossed Rice Noodle,243.0,3652.73,data 2,Tossed Rice Noodle,,June_Data_Matrix,2025-06,tossed rice noodle
+1,1,Ramen,479.0,7108.15,data 2,Ramen,,June_Data_Matrix,2025-06,ramen
+1,1,Appetizer,836.0,4487.7,data 2,Appetizer,,June_Data_Matrix,2025-06,appetizer
+1,1,Additonal,127.0,255.81,data 2,Additonal,,June_Data_Matrix,2025-06,additonal
+1,1,Fried Rice,146.0,1967.46,data 2,Fried Rice,,June_Data_Matrix,2025-06,fried rice
+1,1,Fried Chicken,551.0,5725.04,data 2,Fried Chicken,,June_Data_Matrix,2025-06,fried chicken
+1,1,Lunch Special,222.0,3089.08,data 2,Lunch Special,,June_Data_Matrix,2025-06,lunch special
+1,1,Prep item,0.0,0.0,data 2,Prep item,,June_Data_Matrix,2025-06,prep item
+1,1,Wonton,103.0,1187.4,data 2,Wonton,,June_Data_Matrix,2025-06,wonton
+1,1,Milk Tea,189.0,836.14,data 2,Milk Tea,,June_Data_Matrix,2025-06,milk tea
+1,1,Special Offer,37.0,472.38,data 2,Special Offer,,June_Data_Matrix,2025-06,special offer
+1,1,Combo Items,0.0,0.0,data 2,Combo Items,,June_Data_Matrix,2025-06,combo items
+1,1,Drink,,2086.79,data 2,Drink,,June_Data_Matrix,2025-06,drink
+1,1,Open Food,1.0,5.0,data 2,Open Food,,June_Data_Matrix,2025-06,open food
+1,1,Rice Noodle,298.0,4365.96,data 2,Rice Noodle,,June_Data_Matrix,2025-06,rice noodle
+1,1,Beef Tossed Ramen,286.0,4248.69,data 3,,Beef Tossed Ramen,June_Data_Matrix,2025-06,beef tossed ramen
+1,1,Lunch Special,222.0,3089.08,data 3,,Lunch Special,June_Data_Matrix,2025-06,lunch special
+1,1,Beef Ramen,195.0,2907.79,data 3,,Beef Ramen,June_Data_Matrix,2025-06,beef ramen
+1,1,Chicken Rice Noodle Soup,153.0,2196.39,data 3,,Chicken Rice Noodle Soup,June_Data_Matrix,2025-06,chicken rice noodle soup
+1,1,Beef Tossed Rice Noodle,113.0,1771.24,data 3,,Beef Tossed Rice Noodle,June_Data_Matrix,2025-06,beef tossed rice noodle
+1,1,BF chicken cutlet combo,142.0,1722.24,data 3,,BF chicken cutlet combo,June_Data_Matrix,2025-06,bf chicken cutlet combo
+1,1,Pork Tossed Ramen,134.0,1769.95,data 3,,Pork Tossed Ramen,June_Data_Matrix,2025-06,pork tossed ramen
+1,1,Chicken Ramen,117.0,1724.75,data 3,,Chicken Ramen,June_Data_Matrix,2025-06,chicken ramen
+1,1,Beef Rice Noodle Soup,81.0,1241.45,data 3,,Beef Rice Noodle Soup,June_Data_Matrix,2025-06,beef rice noodle soup
+1,1,Mai Special Fried Chicken(8),127.0,1283.91,data 3,,Mai Special Fried Chicken(8),June_Data_Matrix,2025-06,mai special fried chicken(8)
+1,1,Chicken Tossed Rice Noodles,78.0,1176.77,data 3,,Chicken Tossed Rice Noodles,June_Data_Matrix,2025-06,chicken tossed rice noodles
+1,1,Sichuan Chili Wontons,103.0,1187.4,data 3,,Sichuan Chili Wontons,June_Data_Matrix,2025-06,sichuan chili wontons
+1,1,Chicken Tossed Ramen,81.0,1138.02,data 3,,Chicken Tossed Ramen,June_Data_Matrix,2025-06,chicken tossed ramen
+1,1,House Ramen,65.0,1077.79,data 3,,House Ramen,June_Data_Matrix,2025-06,house ramen
+1,1,Pork Ramen,77.0,1034.83,data 3,,Pork Ramen,June_Data_Matrix,2025-06,pork ramen
+1,1,Golden Coconut Crunch Chicken(8),71.0,715.74,data 3,,Golden Coconut Crunch Chicken(8),June_Data_Matrix,2025-06,golden coconut crunch chicken(8)
+2,1,Mai's Golden Flake Fried Chicken(8),66.0,660.27,data 3,,Mai's Golden Flake Fried Chicken(8),June_Data_Matrix,2025-06,mai's golden flake fried chicken(8)
+2,1,Chicken Fried Rice,47.0,588.99,data 3,,Chicken Fried Rice,June_Data_Matrix,2025-06,chicken fried rice
+2,1,Fried Pork Dumplings(10),63.0,576.99,data 3,,Fried Pork Dumplings(10),June_Data_Matrix,2025-06,fried pork dumplings(10)
+2,1,House Fried Rice,37.0,560.07,data 3,,House Fried Rice,June_Data_Matrix,2025-06,house fried rice
+2,1,Mai OG Fried Chicken Wings(4),112.0,566.58,data 3,,Mai OG Fried Chicken Wings(4),June_Data_Matrix,2025-06,mai og fried chicken wings(4)
+2,1,Cream Cheese Rangoon(6),95.0,555.17,data 3,,Cream Cheese Rangoon(6),June_Data_Matrix,2025-06,cream cheese rangoon(6)
+2,1,Pork Tossed Rice Noodle,43.0,575.37,data 3,,Pork Tossed Rice Noodle,June_Data_Matrix,2025-06,pork tossed rice noodle
+2,1,Crispy Pork Egg Roll(3),121.0,482.76,data 3,,Crispy Pork Egg Roll(3),June_Data_Matrix,2025-06,crispy pork egg roll(3)
+2,1,Crispy Spring Roll(3),119.0,475.5,data 3,,Crispy Spring Roll(3),June_Data_Matrix,2025-06,crispy spring roll(3)
+2,1,Steam Pork Dumplings(10),54.0,475.34,data 3,,Steam Pork Dumplings(10),June_Data_Matrix,2025-06,steam pork dumplings(10)
+2,1,Brown Sugar Milk Tea w. Boba (24oz),103.0,441.87,data 3,,Brown Sugar Milk Tea w. Boba (24oz),June_Data_Matrix,2025-06,brown sugar milk tea w. boba (24oz)
+2,1,Pork Rice Noodle Soup,29.0,389.42,data 3,,Pork Rice Noodle Soup,June_Data_Matrix,2025-06,pork rice noodle soup
+2,1,Tempura Shrimp(3),83.0,407.11,data 3,,Tempura Shrimp(3),June_Data_Matrix,2025-06,tempura shrimp(3)
+2,1,Vegetable Ramen,25.0,362.99,data 3,,Vegetable Ramen,June_Data_Matrix,2025-06,vegetable ramen
+2,1,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",24.0,302.59,data 3,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",June_Data_Matrix,2025-06,"mai's wing wheel (mai og, onion, honey, coco, special)"
+2,1,Onion Glory Fried Chicken(8),31.0,307.44,data 3,,Onion Glory Fried Chicken(8),June_Data_Matrix,2025-06,onion glory fried chicken(8)
+2,1,House Rice Noodle Soup,20.0,339.85,data 3,,House Rice Noodle Soup,June_Data_Matrix,2025-06,house rice noodle soup
+2,1,Dr. Pepper,90.0,268.22,data 3,,Dr. Pepper,June_Data_Matrix,2025-06,dr. pepper
+2,1,Spicy Cucumber Salad,47.0,252.68,data 3,,Spicy Cucumber Salad,June_Data_Matrix,2025-06,spicy cucumber salad
+2,1,Golden kiwi,62.0,226.72,data 3,,Golden kiwi,June_Data_Matrix,2025-06,golden kiwi
+2,1,Shrimp Fried Rice,18.0,249.85,data 3,,Shrimp Fried Rice,June_Data_Matrix,2025-06,shrimp fried rice
+2,1,Citrus Honey Fried Chicken  (8),24.0,241.8,data 3,,Citrus Honey Fried Chicken  (8),June_Data_Matrix,2025-06,citrus honey fried chicken  (8)
+3,1,Unsweet Ice Tea,79.0,232.93,data 3,,Unsweet Ice Tea,June_Data_Matrix,2025-06,unsweet ice tea
+3,1,Beef Fried Rice,18.0,243.61,data 3,,Beef Fried Rice,June_Data_Matrix,2025-06,beef fried rice
+3,1,Strawberry Sunrise Tea,62.0,235.51,data 3,,Strawberry Sunrise Tea,June_Data_Matrix,2025-06,strawberry sunrise tea
+3,1,Pepsi,75.0,216.23,data 3,,Pepsi,June_Data_Matrix,2025-06,pepsi
+3,1,BF chicken cutlet,33.0,222.28,data 3,,BF chicken cutlet,June_Data_Matrix,2025-06,bf chicken cutlet
+3,1,Sweet Ice Tea,76.0,220.93,data 3,,Sweet Ice Tea,June_Data_Matrix,2025-06,sweet ice tea
+3,1,Mai Buffalo Chicken Wings(8),21.0,207.85,data 3,,Mai Buffalo Chicken Wings(8),June_Data_Matrix,2025-06,mai buffalo chicken wings(8)
+3,1,Vegetable Rice Noodle Soup,15.0,198.84,data 3,,Vegetable Rice Noodle Soup,June_Data_Matrix,2025-06,vegetable rice noodle soup
+3,1,Specialty Drink,72.0,212.94,data 3,,Specialty Drink,June_Data_Matrix,2025-06,specialty drink
+3,1,Vegetable Fried Rice,14.0,171.38,data 3,,Vegetable Fried Rice,June_Data_Matrix,2025-06,vegetable fried rice
+3,1,Pork Fried Rice,12.0,153.56,data 3,,Pork Fried Rice,June_Data_Matrix,2025-06,pork fried rice
+3,1,Pork Bun (3),28.0,159.05,data 3,,Pork Bun (3),June_Data_Matrix,2025-06,pork bun (3)
+3,1,Diet Pepsi,55.0,161.9,data 3,,Diet Pepsi,June_Data_Matrix,2025-06,diet pepsi
+3,1,Brown Sugar Rice Cake (5),22.0,119.12,data 3,,Brown Sugar Rice Cake (5),June_Data_Matrix,2025-06,brown sugar rice cake (5)
+3,1,Jumbo Chicken Tender (3),21.0,118.76,data 3,,Jumbo Chicken Tender (3),June_Data_Matrix,2025-06,jumbo chicken tender (3)
+3,1,Vegetable Tossed Rice Noodle,8.0,113.36,data 3,,Vegetable Tossed Rice Noodle,June_Data_Matrix,2025-06,vegetable tossed rice noodle
+3,1,Crispy French Fries,36.0,140.51,data 3,,Crispy French Fries,June_Data_Matrix,2025-06,crispy french fries
+3,1,Mai's Wing Wheel,8.0,99.79,data 3,,Mai's Wing Wheel,June_Data_Matrix,2025-06,mai's wing wheel
+3,1,Tangy Honey Mustard Fried Chicken (8),12.0,111.7,data 3,,Tangy Honey Mustard Fried Chicken (8),June_Data_Matrix,2025-06,tangy honey mustard fried chicken (8)
+3,1,Sweet Sesame Ball (6) w. red bean,20.0,94.8,data 3,,Sweet Sesame Ball (6) w. red bean,June_Data_Matrix,2025-06,sweet sesame ball (6) w. red bean
+3,1,Milk Tea(20oz),19.0,95.35,data 3,,Milk Tea(20oz),June_Data_Matrix,2025-06,milk tea(20oz)
+3,1,Thai Milk Tea w. Boba (24oz)-1,19.0,88.18,data 3,,Thai Milk Tea w. Boba (24oz)-1,June_Data_Matrix,2025-06,thai milk tea w. boba (24oz)-1
+4,1,Starry - Sprite,28.0,81.51,data 3,,Starry - Sprite,June_Data_Matrix,2025-06,starry - sprite
+4,1,Chili Pepper Fried Chicken（8）,7.0,69.0,data 3,,Chili Pepper Fried Chicken（8）,June_Data_Matrix,2025-06,chili pepper fried chicken（8）
+4,1,Wasabi Spiced Fried Chicken (8),7.0,68.93,data 3,,Wasabi Spiced Fried Chicken (8),June_Data_Matrix,2025-06,wasabi spiced fried chicken (8)
+4,1,Vegetable Tossed Ramen,7.0,99.05,data 3,,Vegetable Tossed Ramen,June_Data_Matrix,2025-06,vegetable tossed ramen
+4,1,Braised Chicken Thigh,21.0,66.77,data 3,,Braised Chicken Thigh,June_Data_Matrix,2025-06,braised chicken thigh
+4,1,Thai Milk Tea w. Boba (24oz),15.0,65.55,data 3,,Thai Milk Tea w. Boba (24oz),June_Data_Matrix,2025-06,thai milk tea w. boba (24oz)
+4,1,Lemonade,23.0,64.11,data 3,,Lemonade,June_Data_Matrix,2025-06,lemonade
+4,1,Mai BF Chicken Cutlet Combo,5.0,70.0,data 3,,Mai BF Chicken Cutlet Combo,June_Data_Matrix,2025-06,mai bf chicken cutlet combo
+4,1,Chili Pepper Fried Chicken (8),4.0,45.96,data 3,,Chili Pepper Fried Chicken (8),June_Data_Matrix,2025-06,chili pepper fried chicken (8)
+4,1,Cream Cheese Wonton（6）,7.0,38.93,data 3,,Cream Cheese Wonton（6）,June_Data_Matrix,2025-06,cream cheese wonton（6）
+4,1,Brown Sugar Milk Tea NO BOBA (24oz),9.0,35.56,data 3,,Brown Sugar Milk Tea NO BOBA (24oz),June_Data_Matrix,2025-06,brown sugar milk tea no boba (24oz)
+4,1,Rice Noodle,25.0,37.73,data 3,,Rice Noodle,June_Data_Matrix,2025-06,rice noodle
+4,1,Wasabi Spiced Fried Chicken(8),3.0,33.97,data 3,,Wasabi Spiced Fried Chicken(8),June_Data_Matrix,2025-06,wasabi spiced fried chicken(8)
+4,1,Bottled Soda,17.0,32.61,data 3,,Bottled Soda,June_Data_Matrix,2025-06,bottled soda
+4,1,White Rice - DINE IN,35.0,34.5,data 3,,White Rice - DINE IN,June_Data_Matrix,2025-06,white rice - dine in
+4,1,Mango Milk Tea (24oz),7.0,32.87,data 3,,Mango Milk Tea (24oz),June_Data_Matrix,2025-06,mango milk tea (24oz)
+4,1,White Rice,7.0,26.6,data 3,,White Rice,June_Data_Matrix,2025-06,white rice
+4,1,Plain Fried Rice,8.0,29.99,data 3,,Plain Fried Rice,June_Data_Matrix,2025-06,plain fried rice
+4,1,Hot Tea,12.0,29.36,data 3,,Hot Tea,June_Data_Matrix,2025-06,hot tea
+4,1,Orange Crush,7.0,22.13,data 3,,Orange Crush,June_Data_Matrix,2025-06,orange crush
+4,1,Mango Milk Tea,4.0,19.62,data 3,,Mango Milk Tea,June_Data_Matrix,2025-06,mango milk tea
+4,1,House Tossed Rice Noodle,1.0,15.99,data 3,,House Tossed Rice Noodle,June_Data_Matrix,2025-06,house tossed rice noodle
+5,1,House Tossed Ramen,2.0,31.98,data 3,,House Tossed Ramen,June_Data_Matrix,2025-06,house tossed ramen
+5,1,Thai Milk Tea NO BOBA (24oz),5.0,19.71,data 3,,Thai Milk Tea NO BOBA (24oz),June_Data_Matrix,2025-06,thai milk tea no boba (24oz)
+5,1,Bottled Water,7.0,15.1,data 3,,Bottled Water,June_Data_Matrix,2025-06,bottled water
+5,1,Thai Milk Tea,4.0,20.4,data 3,,Thai Milk Tea,June_Data_Matrix,2025-06,thai milk tea
+5,1,Crispy French Fries(LG),3.0,14.37,data 3,,Crispy French Fries(LG),June_Data_Matrix,2025-06,crispy french fries(lg)
+5,1,Pepsi Zero,4.0,14.36,data 3,,Pepsi Zero,June_Data_Matrix,2025-06,pepsi zero
+5,1,Braised Chicken,4.0,11.88,data 3,,Braised Chicken,June_Data_Matrix,2025-06,braised chicken
+5,1,Pork Bun (1),5.0,10.01,data 3,,Pork Bun (1),June_Data_Matrix,2025-06,pork bun (1)
+5,1,Tangy Honey Mustard Fried Chicken(8),3.0,33.97,data 3,,Tangy Honey Mustard Fried Chicken(8),June_Data_Matrix,2025-06,tangy honey mustard fried chicken(8)
+5,1,Ramen,6.0,8.55,data 3,,Ramen,June_Data_Matrix,2025-06,ramen
+5,1,Braised Egg,4.0,8.36,data 3,,Braised Egg,June_Data_Matrix,2025-06,braised egg
+5,1,Chunked Beef,2.0,7.87,data 3,,Chunked Beef,June_Data_Matrix,2025-06,chunked beef
+5,1,Strawberry Milk Tea  (24oz),3.0,11.33,data 3,,Strawberry Milk Tea  (24oz),June_Data_Matrix,2025-06,strawberry milk tea  (24oz)
+5,1,Ramune - Original,2.0,5.98,data 3,,Ramune - Original,June_Data_Matrix,2025-06,ramune - original
+5,1,Braised Pork,2.0,5.87,data 3,,Braised Pork,June_Data_Matrix,2025-06,braised pork
+5,1,Mai‘s Special Sauce,6.0,5.8,data 3,,Mai‘s Special Sauce,June_Data_Matrix,2025-06,mai‘s special sauce
+5,1,Shrimp (8),2.0,5.25,data 3,,Shrimp (8),June_Data_Matrix,2025-06,shrimp (8)
+5,1,Open Food,1.0,5.0,data 3,,Open Food,June_Data_Matrix,2025-06,open food
+5,1,Sweet Tea,1.0,3.59,data 3,,Sweet Tea,June_Data_Matrix,2025-06,sweet tea
+5,1,Ramune - Melon,1.0,3.59,data 3,,Ramune - Melon,June_Data_Matrix,2025-06,ramune - melon
+5,1,北冰洋 Orange Soda,1.0,3.59,data 3,,北冰洋 Orange Soda,June_Data_Matrix,2025-06,北冰洋 orange soda
+5,1,Ramune - Strawberry,1.0,2.99,data 3,,Ramune - Strawberry,June_Data_Matrix,2025-06,ramune - strawberry
+6,1,Mai‘s special Sauce,2.0,2.2,data 3,,Mai‘s special Sauce,June_Data_Matrix,2025-06,mai‘s special sauce
+6,1,Braised Egg （2）,1.0,1.94,data 3,,Braised Egg （2）,June_Data_Matrix,2025-06,braised egg （2）
+6,1,White Rice-To Go,1.0,1.75,data 3,,White Rice-To Go,June_Data_Matrix,2025-06,white rice-to go
+6,1,Add Boba,1.0,0.75,data 3,,Add Boba,June_Data_Matrix,2025-06,add boba
+6,1,Water,,0.0,data 3,,Water,June_Data_Matrix,2025-06,water
+6,1,Thai Milk Tea (24oz),1.0,5.7,data 3,,Thai Milk Tea (24oz),June_Data_Matrix,2025-06,thai milk tea (24oz)
+6,1,Golden kiwi,9.0,32.49,data 3,,Golden kiwi,June_Data_Matrix,2025-06,golden kiwi
+1,1,All Day Menu,,43088.72,data 1,,,July_Data_Matrix (1),2025-07,all day menu
+1,1,Lunch Menu,213.0,2994.75,data 1,,,July_Data_Matrix (1),2025-07,lunch menu
+1,1,Gift Card,1.0,5.99,data 1,,,July_Data_Matrix (1),2025-07,gift card
+1,1,Open Food,3.0,5.75,data 1,,,July_Data_Matrix (1),2025-07,open food
+1,1,Lunch Special,213.0,2994.75,data 2,Lunch Special,,July_Data_Matrix (1),2025-07,lunch special
+1,1,Milk Tea,256.0,1120.75,data 2,Milk Tea,,July_Data_Matrix (1),2025-07,milk tea
+1,1,Prep item,42.0,0.0,data 2,Prep item,,July_Data_Matrix (1),2025-07,prep item
+1,1,Fried Rice,130.0,1748.27,data 2,Fried Rice,,July_Data_Matrix (1),2025-07,fried rice
+1,1,Appetizer,901.0,5012.23,data 2,Appetizer,,July_Data_Matrix (1),2025-07,appetizer
+1,1,Fried Chicken,452.0,4676.16,data 2,Fried Chicken,,July_Data_Matrix (1),2025-07,fried chicken
+1,1,Additonal,91.0,204.2,data 2,Additonal,,July_Data_Matrix (1),2025-07,additonal
+1,1,Ramen,618.0,9153.54,data 2,Ramen,,July_Data_Matrix (1),2025-07,ramen
+1,1,Tossed Ramen,581.0,8147.01,data 2,Tossed Ramen,,July_Data_Matrix (1),2025-07,tossed ramen
+1,1,Tossed Rice Noodle,252.0,3778.39,data 2,Tossed Rice Noodle,,July_Data_Matrix (1),2025-07,tossed rice noodle
+1,1,Gift Card,1.0,5.99,data 2,Gift Card,,July_Data_Matrix (1),2025-07,gift card
+1,1,Rice Noodle,315.0,4621.24,data 2,Rice Noodle,,July_Data_Matrix (1),2025-07,rice noodle
+1,1,Combo Items,0.0,0.0,data 2,Combo Items,,July_Data_Matrix (1),2025-07,combo items
+1,1,Drink,,2445.01,data 2,Drink,,July_Data_Matrix (1),2025-07,drink
+1,1,Open Food,3.0,5.75,data 2,Open Food,,July_Data_Matrix (1),2025-07,open food
+1,1,Special Offer,118.0,1271.28,data 2,Special Offer,,July_Data_Matrix (1),2025-07,special offer
+2,1,Wonton,82.0,910.64,data 2,Wonton,,July_Data_Matrix (1),2025-07,wonton
+1,1,Beef Tossed Ramen,321.0,4564.29,data 3,,Beef Tossed Ramen,July_Data_Matrix (1),2025-07,beef tossed ramen
+1,1,Beef Ramen,273.0,3986.72,data 3,,Beef Ramen,July_Data_Matrix (1),2025-07,beef ramen
+1,1,Lunch Special,213.0,2994.75,data 3,,Lunch Special,July_Data_Matrix (1),2025-07,lunch special
+1,1,Chicken Rice Noodle Soup,173.0,2486.42,data 3,,Chicken Rice Noodle Soup,July_Data_Matrix (1),2025-07,chicken rice noodle soup
+1,1,Chicken Ramen,127.0,1888.36,data 3,,Chicken Ramen,July_Data_Matrix (1),2025-07,chicken ramen
+1,1,Beef Tossed Rice Noodle,112.0,1798.91,data 3,,Beef Tossed Rice Noodle,July_Data_Matrix (1),2025-07,beef tossed rice noodle
+1,1,Pork Tossed Ramen,141.0,1907.81,data 3,,Pork Tossed Ramen,July_Data_Matrix (1),2025-07,pork tossed ramen
+1,1,Chicken Tossed Ramen,110.0,1541.79,data 3,,Chicken Tossed Ramen,July_Data_Matrix (1),2025-07,chicken tossed ramen
+1,1,House Ramen,84.0,1428.07,data 3,,House Ramen,July_Data_Matrix (1),2025-07,house ramen
+1,1,Mai Special Fried Chicken(8),152.0,1531.62,data 3,,Mai Special Fried Chicken(8),July_Data_Matrix (1),2025-07,mai special fried chicken(8)
+1,1,Pork Ramen,95.0,1321.41,data 3,,Pork Ramen,July_Data_Matrix (1),2025-07,pork ramen
+1,1,Chicken Tossed Rice Noodles,80.0,1168.76,data 3,,Chicken Tossed Rice Noodles,July_Data_Matrix (1),2025-07,chicken tossed rice noodles
+1,1,Beef Rice Noodle Soup,66.0,1036.74,data 3,,Beef Rice Noodle Soup,July_Data_Matrix (1),2025-07,beef rice noodle soup
+1,1,BF chicken cutlet combo,77.0,943.49,data 3,,BF chicken cutlet combo,July_Data_Matrix (1),2025-07,bf chicken cutlet combo
+1,1,Sichuan Chili Wontons,82.0,910.64,data 3,,Sichuan Chili Wontons,July_Data_Matrix (1),2025-07,sichuan chili wontons
+1,1,Fried Pork Dumplings(10),85.0,763.31,data 3,,Fried Pork Dumplings(10),July_Data_Matrix (1),2025-07,fried pork dumplings(10)
+2,1,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",55.0,696.19,data 3,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",July_Data_Matrix (1),2025-07,"mai's wing wheel (mai og, onion, honey, coco, special)"
+2,1,Cream Cheese Rangoon(6),110.0,660.64,data 3,,Cream Cheese Rangoon(6),July_Data_Matrix (1),2025-07,cream cheese rangoon(6)
+2,1,Pork Tossed Rice Noodle,48.0,633.9,data 3,,Pork Tossed Rice Noodle,July_Data_Matrix (1),2025-07,pork tossed rice noodle
+2,1,Mai's Golden Flake Fried Chicken(8),67.0,680.49,data 3,,Mai's Golden Flake Fried Chicken(8),July_Data_Matrix (1),2025-07,mai's golden flake fried chicken(8)
+2,1,Steam Pork Dumplings(10),71.0,633.5,data 3,,Steam Pork Dumplings(10),July_Data_Matrix (1),2025-07,steam pork dumplings(10)
+2,1,Mai OG Fried Chicken Wings(4),116.0,587.7,data 3,,Mai OG Fried Chicken Wings(4),July_Data_Matrix (1),2025-07,mai og fried chicken wings(4)
+2,1,Crispy Spring Roll(3),137.0,549.0,data 3,,Crispy Spring Roll(3),July_Data_Matrix (1),2025-07,crispy spring roll(3)
+2,1,Vegetable Ramen,39.0,528.97,data 3,,Vegetable Ramen,July_Data_Matrix (1),2025-07,vegetable ramen
+2,1,Chicken Fried Rice,44.0,571.13,data 3,,Chicken Fried Rice,July_Data_Matrix (1),2025-07,chicken fried rice
+2,1,Golden Coconut Crunch Chicken(8),52.0,524.09,data 3,,Golden Coconut Crunch Chicken(8),July_Data_Matrix (1),2025-07,golden coconut crunch chicken(8)
+2,1,Crispy Pork Egg Roll(3),119.0,477.61,data 3,,Crispy Pork Egg Roll(3),July_Data_Matrix (1),2025-07,crispy pork egg roll(3)
+2,1,Pork Rice Noodle Soup,33.0,444.59,data 3,,Pork Rice Noodle Soup,July_Data_Matrix (1),2025-07,pork rice noodle soup
+2,1,Pork Bun (3),74.0,437.03,data 3,,Pork Bun (3),July_Data_Matrix (1),2025-07,pork bun (3)
+2,1,House Fried Rice,29.0,419.2,data 3,,House Fried Rice,July_Data_Matrix (1),2025-07,house fried rice
+2,1,Brown Sugar Milk Tea w. Boba (24oz),101.0,424.51,data 3,,Brown Sugar Milk Tea w. Boba (24oz),July_Data_Matrix (1),2025-07,brown sugar milk tea w. boba (24oz)
+2,1,Tempura Shrimp(3),76.0,376.69,data 3,,Tempura Shrimp(3),July_Data_Matrix (1),2025-07,tempura shrimp(3)
+2,1,Dr. Pepper,111.0,327.63,data 3,,Dr. Pepper,July_Data_Matrix (1),2025-07,dr. pepper
+2,1,House Rice Noodle Soup,21.0,339.32,data 3,,House Rice Noodle Soup,July_Data_Matrix (1),2025-07,house rice noodle soup
+2,1,Citrus Honey Fried Chicken  (8),28.0,275.98,data 3,,Citrus Honey Fried Chicken  (8),July_Data_Matrix (1),2025-07,citrus honey fried chicken  (8)
+2,1,Shrimp Fried Rice,19.0,257.36,data 3,,Shrimp Fried Rice,July_Data_Matrix (1),2025-07,shrimp fried rice
+2,1,Vegetable Rice Noodle Soup,22.0,314.18,data 3,,Vegetable Rice Noodle Soup,July_Data_Matrix (1),2025-07,vegetable rice noodle soup
+2,1,Beef Fried Rice,18.0,247.79,data 3,,Beef Fried Rice,July_Data_Matrix (1),2025-07,beef fried rice
+3,1,Mai BF Chicken Cutlet Combo,16.0,225.0,data 3,,Mai BF Chicken Cutlet Combo,July_Data_Matrix (1),2025-07,mai bf chicken cutlet combo
+3,1,Sweet Ice Tea,83.0,238.63,data 3,,Sweet Ice Tea,July_Data_Matrix (1),2025-07,sweet ice tea
+3,1,Steam Pork Bun （3）,37.0,251.63,data 3,,Steam Pork Bun （3）,July_Data_Matrix (1),2025-07,steam pork bun （3）
+3,1,Diet Pepsi,67.0,198.32,data 3,,Diet Pepsi,July_Data_Matrix (1),2025-07,diet pepsi
+3,1,Specialty Drink,78.0,224.43,data 3,,Specialty Drink,July_Data_Matrix (1),2025-07,specialty drink
+3,1,Unsweet Ice Tea,78.0,218.33,data 3,,Unsweet Ice Tea,July_Data_Matrix (1),2025-07,unsweet ice tea
+3,1,Thai Milk Tea w. Boba (24oz),50.0,200.73,data 3,,Thai Milk Tea w. Boba (24oz),July_Data_Matrix (1),2025-07,thai milk tea w. boba (24oz)
+3,1,Pepsi,73.0,208.47,data 3,,Pepsi,July_Data_Matrix (1),2025-07,pepsi
+3,1,Onion Glory Fried Chicken(8),19.0,180.3,data 3,,Onion Glory Fried Chicken(8),July_Data_Matrix (1),2025-07,onion glory fried chicken(8)
+3,1,Pork Fried Rice,13.0,165.57,data 3,,Pork Fried Rice,July_Data_Matrix (1),2025-07,pork fried rice
+3,1,Spicy Cucumber Salad,29.0,152.92,data 3,,Spicy Cucumber Salad,July_Data_Matrix (1),2025-07,spicy cucumber salad
+3,1,Vegetable Tossed Rice Noodle,11.0,161.14,data 3,,Vegetable Tossed Rice Noodle,July_Data_Matrix (1),2025-07,vegetable tossed rice noodle
+3,1,Milk Tea(24oz),28.0,152.95,data 3,,Milk Tea(24oz),July_Data_Matrix (1),2025-07,milk tea(24oz)
+3,1,Golden kiwi (16oz),42.0,161.82,data 3,,Golden kiwi (16oz),July_Data_Matrix (1),2025-07,golden kiwi (16oz)
+3,1,Strawberry Sunrise（16oz),42.0,152.64,data 3,,Strawberry Sunrise（16oz),July_Data_Matrix (1),2025-07,strawberry sunrise（16oz)
+3,1,Strawberry Sunrise Tea,33.0,122.66,data 3,,Strawberry Sunrise Tea,July_Data_Matrix (1),2025-07,strawberry sunrise tea
+3,1,Mai Buffalo Chicken Wings(8),14.0,140.33,data 3,,Mai Buffalo Chicken Wings(8),July_Data_Matrix (1),2025-07,mai buffalo chicken wings(8)
+3,1,Jumbo Chicken Tenders Combo (3),10.0,98.46,data 3,,Jumbo Chicken Tenders Combo (3),July_Data_Matrix (1),2025-07,jumbo chicken tenders combo (3)
+3,1,Starry - Sprite,35.0,100.88,data 3,,Starry - Sprite,July_Data_Matrix (1),2025-07,starry - sprite
+3,1,Thai Milk Tea (24oz),17.0,91.2,data 3,,Thai Milk Tea (24oz),July_Data_Matrix (1),2025-07,thai milk tea (24oz)
+3,1,Vegetable Fried Rice,7.0,87.21,data 3,,Vegetable Fried Rice,July_Data_Matrix (1),2025-07,vegetable fried rice
+3,1,BF chicken cutlet,13.0,85.12,data 3,,BF chicken cutlet,July_Data_Matrix (1),2025-07,bf chicken cutlet
+4,1,Jumbo Chicken Tender (3),17.0,84.58,data 3,,Jumbo Chicken Tender (3),July_Data_Matrix (1),2025-07,jumbo chicken tender (3)
+4,1,Strawberry Sunrise（24oz),20.0,85.02,data 3,,Strawberry Sunrise（24oz),July_Data_Matrix (1),2025-07,strawberry sunrise（24oz)
+4,1,Brown Sugar Rice Cake (5),14.0,75.69,data 3,,Brown Sugar Rice Cake (5),July_Data_Matrix (1),2025-07,brown sugar rice cake (5)
+4,1,Crispy French Fries,22.0,85.08,data 3,,Crispy French Fries,July_Data_Matrix (1),2025-07,crispy french fries
+4,1,Lemonade,27.0,76.64,data 3,,Lemonade,July_Data_Matrix (1),2025-07,lemonade
+4,1,Chili Pepper Fried Chicken（8）,7.0,69.43,data 3,,Chili Pepper Fried Chicken（8）,July_Data_Matrix (1),2025-07,chili pepper fried chicken（8）
+4,1,Tangy Honey Mustard Fried Chicken (8),8.0,77.46,data 3,,Tangy Honey Mustard Fried Chicken (8),July_Data_Matrix (1),2025-07,tangy honey mustard fried chicken (8)
+4,1,Vegetable Tossed Ramen,5.0,67.24,data 3,,Vegetable Tossed Ramen,July_Data_Matrix (1),2025-07,vegetable tossed ramen
+4,1,Sweet Sesame Ball (6) w. red bean,15.0,71.72,data 3,,Sweet Sesame Ball (6) w. red bean,July_Data_Matrix (1),2025-07,sweet sesame ball (6) w. red bean
+4,1,Golden kiwi (24oz),17.0,76.02,data 3,,Golden kiwi (24oz),July_Data_Matrix (1),2025-07,golden kiwi (24oz)
+4,1,Wasabi Spiced Fried Chicken(8),5.0,59.95,data 3,,Wasabi Spiced Fried Chicken(8),July_Data_Matrix (1),2025-07,wasabi spiced fried chicken(8)
+4,1,Wasabi Spiced Fried Chicken (8),6.0,59.94,data 3,,Wasabi Spiced Fried Chicken (8),July_Data_Matrix (1),2025-07,wasabi spiced fried chicken (8)
+4,1,Mango Milk Tea (24oz),13.0,59.73,data 3,,Mango Milk Tea (24oz),July_Data_Matrix (1),2025-07,mango milk tea (24oz)
+4,1,Brown Sugar Milk Tea NO BOBA (24oz),15.0,56.89,data 3,,Brown Sugar Milk Tea NO BOBA (24oz),July_Data_Matrix (1),2025-07,brown sugar milk tea no boba (24oz)
+4,1,Thai Milk Tea NO BOBA (24oz),17.0,67.67,data 3,,Thai Milk Tea NO BOBA (24oz),July_Data_Matrix (1),2025-07,thai milk tea no boba (24oz)
+4,1,Strawberry Milk Tea  (24oz),15.0,67.07,data 3,,Strawberry Milk Tea  (24oz),July_Data_Matrix (1),2025-07,strawberry milk tea  (24oz)
+4,1,House Tossed Ramen,4.0,65.88,data 3,,House Tossed Ramen,July_Data_Matrix (1),2025-07,house tossed ramen
+4,1,Orange Crush,15.0,45.72,data 3,,Orange Crush,July_Data_Matrix (1),2025-07,orange crush
+4,1,Hot Tea,18.0,52.81,data 3,,Hot Tea,July_Data_Matrix (1),2025-07,hot tea
+4,1,Golden kiwi,12.0,42.72,data 3,,Golden kiwi,July_Data_Matrix (1),2025-07,golden kiwi
+4,1,Tangy Honey Mustard Fried Chicken(8),3.0,35.97,data 3,,Tangy Honey Mustard Fried Chicken(8),July_Data_Matrix (1),2025-07,tangy honey mustard fried chicken(8)
+4,1,Plain Fried Rice,10.0,38.87,data 3,,Plain Fried Rice,July_Data_Matrix (1),2025-07,plain fried rice
+5,1,Pepsi zero,11.0,32.51,data 3,,Pepsi zero,July_Data_Matrix (1),2025-07,pepsi zero
+5,1,Chunked Beef,7.0,27.87,data 3,,Chunked Beef,July_Data_Matrix (1),2025-07,chunked beef
+5,1,Crispy French Fries(LG),6.0,26.34,data 3,,Crispy French Fries(LG),July_Data_Matrix (1),2025-07,crispy french fries(lg)
+5,1,Bottled Soda,17.0,30.15,data 3,,Bottled Soda,July_Data_Matrix (1),2025-07,bottled soda
+5,1,Rice Noodle,12.0,18.35,data 3,,Rice Noodle,July_Data_Matrix (1),2025-07,rice noodle
+5,1,Pork Bun (1),9.0,19.91,data 3,,Pork Bun (1),July_Data_Matrix (1),2025-07,pork bun (1)
+5,1,Ramen,13.0,19.33,data 3,,Ramen,July_Data_Matrix (1),2025-07,ramen
+5,1,Braised Egg （2 half）,9.0,17.66,data 3,,Braised Egg （2 half）,July_Data_Matrix (1),2025-07,braised egg （2 half）
+5,1,House Tossed Rice Noodle,1.0,15.68,data 3,,House Tossed Rice Noodle,July_Data_Matrix (1),2025-07,house tossed rice noodle
+5,1,White Rice-To Go,4.0,14.0,data 3,,White Rice-To Go,July_Data_Matrix (1),2025-07,white rice-to go
+5,1,White Rice - DINE IN,16.0,15.8,data 3,,White Rice - DINE IN,July_Data_Matrix (1),2025-07,white rice - dine in
+5,1,Chili Pepper Fried Chicken (8),1.0,11.99,data 3,,Chili Pepper Fried Chicken (8),July_Data_Matrix (1),2025-07,chili pepper fried chicken (8)
+5,1,Shrimp (8),5.0,14.88,data 3,,Shrimp (8),July_Data_Matrix (1),2025-07,shrimp (8)
+5,1,Bottled Water,7.0,13.7,data 3,,Bottled Water,July_Data_Matrix (1),2025-07,bottled water
+5,1,Chicken Tender combo w fries and drink,1.0,10.5,data 3,,Chicken Tender combo w fries and drink,July_Data_Matrix (1),2025-07,chicken tender combo w fries and drink
+5,1,Braised Pork,3.0,8.62,data 3,,Braised Pork,July_Data_Matrix (1),2025-07,braised pork
+5,1,Milkis,2.0,7.18,data 3,,Milkis,July_Data_Matrix (1),2025-07,milkis
+5,1,Unsweet Tea,2.0,7.18,data 3,,Unsweet Tea,July_Data_Matrix (1),2025-07,unsweet tea
+5,1,White Rice,3.0,11.2,data 3,,White Rice,July_Data_Matrix (1),2025-07,white rice
+5,1,Gift Card,1.0,5.99,data 3,,Gift Card,July_Data_Matrix (1),2025-07,gift card
+5,1,Open Food,3.0,5.75,data 3,,Open Food,July_Data_Matrix (1),2025-07,open food
+5,1,Ramune - Melon,1.0,3.59,data 3,,Ramune - Melon,July_Data_Matrix (1),2025-07,ramune - melon
+6,1,Starry,1.0,3.59,data 3,,Starry,July_Data_Matrix (1),2025-07,starry
+6,1,Ramune - Strawberry,1.0,3.59,data 3,,Ramune - Strawberry,July_Data_Matrix (1),2025-07,ramune - strawberry
+6,1,Coconut Milk,1.0,3.59,data 3,,Coconut Milk,July_Data_Matrix (1),2025-07,coconut milk
+6,1,Ramune - Grape,1.0,3.59,data 3,,Ramune - Grape,July_Data_Matrix (1),2025-07,ramune - grape
+6,1,Braised Chicken,2.0,6.58,data 3,,Braised Chicken,July_Data_Matrix (1),2025-07,braised chicken
+6,1,Mai‘s special Sauce,2.0,2.4,data 3,,Mai‘s special Sauce,July_Data_Matrix (1),2025-07,mai‘s special sauce
+6,1,Braised Egg,2.0,4.78,data 3,,Braised Egg,July_Data_Matrix (1),2025-07,braised egg
+6,1,Braised Egg （2）,1.0,1.89,data 3,,Braised Egg （2）,July_Data_Matrix (1),2025-07,braised egg （2）
+6,1,Mai‘s Special Sauce,2.0,1.98,data 3,,Mai‘s Special Sauce,July_Data_Matrix (1),2025-07,mai‘s special sauce
+6,1,Chunked Pork - 5 days exp,2.0,0.0,data 3,,Chunked Pork - 5 days exp,July_Data_Matrix (1),2025-07,chunked pork - 5 days exp
+6,1,Water,,0.0,data 3,,Water,July_Data_Matrix (1),2025-07,water
+6,1,Chinese Bockchoy- 5 days exp,4.0,0.0,data 3,,Chinese Bockchoy- 5 days exp,July_Data_Matrix (1),2025-07,chinese bockchoy- 5 days exp
+6,1,Braised Chicken - 5 days exp,1.0,0.0,data 3,,Braised Chicken - 5 days exp,July_Data_Matrix (1),2025-07,braised chicken - 5 days exp
+6,1,Sliced Fruit  - 5 day expiration,26.0,0.0,data 3,,Sliced Fruit  - 5 day expiration,July_Data_Matrix (1),2025-07,sliced fruit  - 5 day expiration
+6,1,Brew Tea - 5 days exp,7.0,0.0,data 3,,Brew Tea - 5 days exp,July_Data_Matrix (1),2025-07,brew tea - 5 days exp
+6,1,Ramune - Orange,1.0,3.59,data 3,,Ramune - Orange,July_Data_Matrix (1),2025-07,ramune - orange
+1,1,Signature Drinks,566.0,2408.42,data 1,,,August_Data_Matrix (1),2025-08,signature drinks
+1,1,Lunch Menu,308.0,4160.47,data 1,,,August_Data_Matrix (1),2025-08,lunch menu
+1,1,Gift Card,5.0,45.0,data 1,,,August_Data_Matrix (1),2025-08,gift card
+1,1,All Day Menu,,58601.83,data 1,,,August_Data_Matrix (1),2025-08,all day menu
+1,1,Open Food,1.0,1.5,data 1,,,August_Data_Matrix (1),2025-08,open food
+1,1,Wonton,211.0,2355.56,data 2,Wonton,,August_Data_Matrix (1),2025-08,wonton
+1,1,Lunch Special,308.0,4160.47,data 2,Lunch Special,,August_Data_Matrix (1),2025-08,lunch special
+1,1,Prep item,38.0,1.0,data 2,Prep item,,August_Data_Matrix (1),2025-08,prep item
+1,1,Additonal,156.0,395.71,data 2,Additonal,,August_Data_Matrix (1),2025-08,additonal
+1,1,Fried Rice,422.0,5385.14,data 2,Fried Rice,,August_Data_Matrix (1),2025-08,fried rice
+1,1,Fruit Tea,110.0,452.94,data 2,Fruit Tea,,August_Data_Matrix (1),2025-08,fruit tea
+1,1,Fried Chicken,746.0,8590.0,data 2,Fried Chicken,,August_Data_Matrix (1),2025-08,fried chicken
+1,1,Appetizer,,6407.17,data 2,Appetizer,,August_Data_Matrix (1),2025-08,appetizer
+1,1,Ramen,844.0,12574.53,data 2,Ramen,,August_Data_Matrix (1),2025-08,ramen
+1,1,Tossed Ramen,480.0,6908.36,data 2,Tossed Ramen,,August_Data_Matrix (1),2025-08,tossed ramen
+1,1,Tossed Rice Noodle,420.0,6232.66,data 2,Tossed Rice Noodle,,August_Data_Matrix (1),2025-08,tossed rice noodle
+1,1,Mai Dessert,19.0,111.65,data 2,Mai Dessert,,August_Data_Matrix (1),2025-08,mai dessert
+1,1,Rice Noodle,404.0,6053.93,data 2,Rice Noodle,,August_Data_Matrix (1),2025-08,rice noodle
+1,1,Gift Card,5.0,45.0,data 2,Gift Card,,August_Data_Matrix (1),2025-08,gift card
+1,1,Jas-Lemonade,84.0,346.85,data 2,Jas-Lemonade,,August_Data_Matrix (1),2025-08,jas-lemonade
+1,1,Combo Items,0.0,0.0,data 2,Combo Items,,August_Data_Matrix (1),2025-08,combo items
+2,1,Drink,,1930.03,data 2,Drink,,August_Data_Matrix (1),2025-08,drink
+2,1,Open Food,1.0,1.5,data 2,Open Food,,August_Data_Matrix (1),2025-08,open food
+2,1,Special Offer,127.0,1648.21,data 2,Special Offer,,August_Data_Matrix (1),2025-08,special offer
+2,1,Milk Tea,374.0,1616.49,data 2,Milk Tea,,August_Data_Matrix (1),2025-08,milk tea
+1,1,Beef Ramen,328.0,5032.52,data 3,,Beef Ramen,August_Data_Matrix (1),2025-08,beef ramen
+1,1,Lunch Special,308.0,4160.47,data 3,,Lunch Special,August_Data_Matrix (1),2025-08,lunch special
+1,1,Beef Tossed Ramen,214.0,3166.6,data 3,,Beef Tossed Ramen,August_Data_Matrix (1),2025-08,beef tossed ramen
+1,1,Mai's BF Chicken Cutlet Combo,201.0,3047.09,data 3,,Mai's BF Chicken Cutlet Combo,August_Data_Matrix (1),2025-08,mai's bf chicken cutlet combo
+1,1,Chicken Ramen,181.0,2613.36,data 3,,Chicken Ramen,August_Data_Matrix (1),2025-08,chicken ramen
+1,1,Pork Ramen,173.0,2413.66,data 3,,Pork Ramen,August_Data_Matrix (1),2025-08,pork ramen
+1,1,Beef Tossed Rice Noodle,146.0,2343.52,data 3,,Beef Tossed Rice Noodle,August_Data_Matrix (1),2025-08,beef tossed rice noodle
+1,1,Sichuan Chili Wontons,181.0,2027.16,data 3,,Sichuan Chili Wontons,August_Data_Matrix (1),2025-08,sichuan chili wontons
+1,1,Chicken Rice Noodle Soup,132.0,1922.45,data 3,,Chicken Rice Noodle Soup,August_Data_Matrix (1),2025-08,chicken rice noodle soup
+1,1,Beef Rice Noodle Soup,123.0,1889.06,data 3,,Beef Rice Noodle Soup,August_Data_Matrix (1),2025-08,beef rice noodle soup
+1,1,House Ramen,112.0,1830.92,data 3,,House Ramen,August_Data_Matrix (1),2025-08,house ramen
+1,1,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",129.0,1761.18,data 3,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",August_Data_Matrix (1),2025-08,"mai's wing wheel (mai og, onion, honey, coco, special)"
+1,1,Chicken Tossed Rice Noodles,115.0,1648.14,data 3,,Chicken Tossed Rice Noodles,August_Data_Matrix (1),2025-08,chicken tossed rice noodles
+1,1,Mai Special Fried Chicken(8),157.0,1538.48,data 3,,Mai Special Fried Chicken(8),August_Data_Matrix (1),2025-08,mai special fried chicken(8)
+1,1,Pork Tossed Ramen,116.0,1553.8,data 3,,Pork Tossed Ramen,August_Data_Matrix (1),2025-08,pork tossed ramen
+1,1,Chicken Fried Rice,130.0,1568.64,data 3,,Chicken Fried Rice,August_Data_Matrix (1),2025-08,chicken fried rice
+2,1,Pork Tossed Rice Noodle,100.0,1355.56,data 3,,Pork Tossed Rice Noodle,August_Data_Matrix (1),2025-08,pork tossed rice noodle
+2,1,Chicken Tossed Ramen,101.0,1439.54,data 3,,Chicken Tossed Ramen,August_Data_Matrix (1),2025-08,chicken tossed ramen
+2,1,Steamed Pork Buns,233.0,1190.88,data 3,,Steamed Pork Buns,August_Data_Matrix (1),2025-08,steamed pork buns
+2,1,Shrimp Fried Rice,87.0,1113.51,data 3,,Shrimp Fried Rice,August_Data_Matrix (1),2025-08,shrimp fried rice
+2,1,Beef Fried Rice,75.0,992.82,data 3,,Beef Fried Rice,August_Data_Matrix (1),2025-08,beef fried rice
+2,1,Fried Pork Dumplings(10),108.0,970.51,data 3,,Fried Pork Dumplings(10),August_Data_Matrix (1),2025-08,fried pork dumplings(10)
+2,1,House Rice Noodle Soup,61.0,997.21,data 3,,House Rice Noodle Soup,August_Data_Matrix (1),2025-08,house rice noodle soup
+2,1,House Fried Rice,72.0,1004.67,data 3,,House Fried Rice,August_Data_Matrix (1),2025-08,house fried rice
+2,1,Pork Rice Noodle Soup,63.0,889.57,data 3,,Pork Rice Noodle Soup,August_Data_Matrix (1),2025-08,pork rice noodle soup
+2,1,Steam Pork Dumplings(10),106.0,948.27,data 3,,Steam Pork Dumplings(10),August_Data_Matrix (1),2025-08,steam pork dumplings(10)
+2,1,Vegetable Ramen,50.0,684.06,data 3,,Vegetable Ramen,August_Data_Matrix (1),2025-08,vegetable ramen
+2,1,Cream Cheese Rangoon(6),117.0,716.65,data 3,,Cream Cheese Rangoon(6),August_Data_Matrix (1),2025-08,cream cheese rangoon(6)
+2,1,Brown Sugar Milk Tea w. boba,149.0,601.79,data 3,,Brown Sugar Milk Tea w. boba,August_Data_Matrix (1),2025-08,brown sugar milk tea w. boba
+2,1,House Tossed Rice Noodle,35.0,560.46,data 3,,House Tossed Rice Noodle,August_Data_Matrix (1),2025-08,house tossed rice noodle
+2,1,Citrus Honey Fried Chicken  (8),53.0,536.24,data 3,,Citrus Honey Fried Chicken  (8),August_Data_Matrix (1),2025-08,citrus honey fried chicken  (8)
+2,1,Tempura Shrimp(3),102.0,487.66,data 3,,Tempura Shrimp(3),August_Data_Matrix (1),2025-08,tempura shrimp(3)
+2,1,Mai's Golden Flake Fried Chicken(8),50.0,533.85,data 3,,Mai's Golden Flake Fried Chicken(8),August_Data_Matrix (1),2025-08,mai's golden flake fried chicken(8)
+2,1,Crispy Spring Roll(3),132.0,523.04,data 3,,Crispy Spring Roll(3),August_Data_Matrix (1),2025-08,crispy spring roll(3)
+2,1,Chili Pepper Fried Chicken（8）,51.0,509.24,data 3,,Chili Pepper Fried Chicken（8）,August_Data_Matrix (1),2025-08,chili pepper fried chicken（8）
+2,1,Thai Milk Tea w. boba,98.0,433.74,data 3,,Thai Milk Tea w. boba,August_Data_Matrix (1),2025-08,thai milk tea w. boba
+2,1,House Tossed Ramen,27.0,443.31,data 3,,House Tossed Ramen,August_Data_Matrix (1),2025-08,house tossed ramen
+2,1,Spicy Cucumber Salad,69.0,378.5,data 3,,Spicy Cucumber Salad,August_Data_Matrix (1),2025-08,spicy cucumber salad
+3,1,Mai BF Chicken Cutlet Combo,20.0,347.38,data 3,,Mai BF Chicken Cutlet Combo,August_Data_Matrix (1),2025-08,mai bf chicken cutlet combo
+3,1,Vegetable Rice Noodle Soup,25.0,355.64,data 3,,Vegetable Rice Noodle Soup,August_Data_Matrix (1),2025-08,vegetable rice noodle soup
+3,1,Vegetable Fried Rice,31.0,361.06,data 3,,Vegetable Fried Rice,August_Data_Matrix (1),2025-08,vegetable fried rice
+3,1,Pork Fried Rice,27.0,344.44,data 3,,Pork Fried Rice,August_Data_Matrix (1),2025-08,pork fried rice
+3,1,Jumbo Chicken Tenders Combo (3),39.0,378.75,data 3,,Jumbo Chicken Tenders Combo (3),August_Data_Matrix (1),2025-08,jumbo chicken tenders combo (3)
+3,1,Golden Coconut Crunch Chicken(8),33.0,339.86,data 3,,Golden Coconut Crunch Chicken(8),August_Data_Matrix (1),2025-08,golden coconut crunch chicken(8)
+3,1,Wonton Soup,30.0,328.39,data 3,,Wonton Soup,August_Data_Matrix (1),2025-08,wonton soup
+3,1,Crispy Pork Egg Roll(3),75.0,295.23,data 3,,Crispy Pork Egg Roll(3),August_Data_Matrix (1),2025-08,crispy pork egg roll(3)
+3,1,Vegetable Tossed Rice Noodle,24.0,324.97,data 3,,Vegetable Tossed Rice Noodle,August_Data_Matrix (1),2025-08,vegetable tossed rice noodle
+3,1,Vegetable Tossed Ramen,22.0,305.12,data 3,,Vegetable Tossed Ramen,August_Data_Matrix (1),2025-08,vegetable tossed ramen
+3,1,Mai OG Fried Chicken Wings(4),51.0,274.32,data 3,,Mai OG Fried Chicken Wings(4),August_Data_Matrix (1),2025-08,mai og fried chicken wings(4)
+3,1,Brown Sugar Rice Cake (5),54.0,289.82,data 3,,Brown Sugar Rice Cake (5),August_Data_Matrix (1),2025-08,brown sugar rice cake (5)
+3,1,Dr. Pepper,94.0,279.4,data 3,,Dr. Pepper,August_Data_Matrix (1),2025-08,dr. pepper
+3,1,Pepsi zero,91.0,260.31,data 3,,Pepsi zero,August_Data_Matrix (1),2025-08,pepsi zero
+3,1,Pepsi,87.0,253.94,data 3,,Pepsi,August_Data_Matrix (1),2025-08,pepsi
+3,1,Tangy Honey Mustard Fried Chicken (8),28.0,259.41,data 3,,Tangy Honey Mustard Fried Chicken (8),August_Data_Matrix (1),2025-08,tangy honey mustard fried chicken (8)
+3,1,Sweet Ice Tea,87.0,247.16,data 3,,Sweet Ice Tea,August_Data_Matrix (1),2025-08,sweet ice tea
+3,1,Sweet Sesame Ball (6) w. red bean,48.0,223.93,data 3,,Sweet Sesame Ball (6) w. red bean,August_Data_Matrix (1),2025-08,sweet sesame ball (6) w. red bean
+3,1,Strawberry Sunrise,61.0,249.01,data 3,,Strawberry Sunrise,August_Data_Matrix (1),2025-08,strawberry sunrise
+3,1,Mai's BF Chicken Cutlet,29.0,218.02,data 3,,Mai's BF Chicken Cutlet,August_Data_Matrix (1),2025-08,mai's bf chicken cutlet
+3,1,Onion Glory Fried Chicken(8),23.0,237.88,data 3,,Onion Glory Fried Chicken(8),August_Data_Matrix (1),2025-08,onion glory fried chicken(8)
+3,1,Golden Kiwi,49.0,203.94,data 3,,Golden Kiwi,August_Data_Matrix (1),2025-08,golden kiwi
+4,1,Unsweet Ice Tea,69.0,201.11,data 3,,Unsweet Ice Tea,August_Data_Matrix (1),2025-08,unsweet ice tea
+4,1,Specialty Drink,69.0,203.14,data 3,,Specialty Drink,August_Data_Matrix (1),2025-08,specialty drink
+4,1,Mai Buffalo Chicken Wings(8),22.0,214.18,data 3,,Mai Buffalo Chicken Wings(8),August_Data_Matrix (1),2025-08,mai buffalo chicken wings(8)
+4,1,Crispy French Fries(LG),43.0,168.35,data 3,,Crispy French Fries(LG),August_Data_Matrix (1),2025-08,crispy french fries(lg)
+4,1,Lemonade,59.0,175.02,data 3,,Lemonade,August_Data_Matrix (1),2025-08,lemonade
+4,1,Mango Milk Tea,40.0,190.2,data 3,,Mango Milk Tea,August_Data_Matrix (1),2025-08,mango milk tea
+4,1,Strawberry Milk Tea,42.0,186.52,data 3,,Strawberry Milk Tea,August_Data_Matrix (1),2025-08,strawberry milk tea
+4,1,Steam Pork Bun （3）,16.0,113.94,data 3,,Steam Pork Bun （3）,August_Data_Matrix (1),2025-08,steam pork bun （3）
+4,1,Hot Tea,35.0,103.03,data 3,,Hot Tea,August_Data_Matrix (1),2025-08,hot tea
+4,1,Brown Sugar Milk Tea,22.0,99.33,data 3,,Brown Sugar Milk Tea,August_Data_Matrix (1),2025-08,brown sugar milk tea
+4,1,Strawberry Jas-Lemonade,23.0,94.87,data 3,,Strawberry Jas-Lemonade,August_Data_Matrix (1),2025-08,strawberry jas-lemonade
+4,1,BF chicken cutlet combo,7.0,92.5,data 3,,BF chicken cutlet combo,August_Data_Matrix (1),2025-08,bf chicken cutlet combo
+4,1,Mango Jas-Lemonade,17.0,72.87,data 3,,Mango Jas-Lemonade,August_Data_Matrix (1),2025-08,mango jas-lemonade
+4,1,Plain Fried Rice,18.0,80.25,data 3,,Plain Fried Rice,August_Data_Matrix (1),2025-08,plain fried rice
+4,1,White Rice - DINE IN,48.0,73.59,data 3,,White Rice - DINE IN,August_Data_Matrix (1),2025-08,white rice - dine in
+4,1,Starry - Sprite,23.0,67.46,data 3,,Starry - Sprite,August_Data_Matrix (1),2025-08,starry - sprite
+4,1,Matcha Milk Tea w. boba,16.0,72.67,data 3,,Matcha Milk Tea w. boba,August_Data_Matrix (1),2025-08,matcha milk tea w. boba
+4,1,Peach Jas-Lemonade,13.0,58.69,data 3,,Peach Jas-Lemonade,August_Data_Matrix (1),2025-08,peach jas-lemonade
+4,1,Jumbo Chicken Tenders(3),10.0,61.24,data 3,,Jumbo Chicken Tenders(3),August_Data_Matrix (1),2025-08,jumbo chicken tenders(3)
+4,1,Original Jas-Lemonade,13.0,58.29,data 3,,Original Jas-Lemonade,August_Data_Matrix (1),2025-08,original jas-lemonade
+4,1,Gift Card,5.0,45.0,data 3,,Gift Card,August_Data_Matrix (1),2025-08,gift card
+4,1,Bottled Soda,15.0,42.74,data 3,,Bottled Soda,August_Data_Matrix (1),2025-08,bottled soda
+5,1,Ramen,17.0,41.2,data 3,,Ramen,August_Data_Matrix (1),2025-08,ramen
+5,1,Lychee Jas-Lemonade,10.0,37.81,data 3,,Lychee Jas-Lemonade,August_Data_Matrix (1),2025-08,lychee jas-lemonade
+5,1,Pork Bun (3),6.0,35.94,data 3,,Pork Bun (3),August_Data_Matrix (1),2025-08,pork bun (3)
+5,1,Orange Crush,13.0,38.73,data 3,,Orange Crush,August_Data_Matrix (1),2025-08,orange crush
+5,1,Chunked Beef,10.0,39.28,data 3,,Chunked Beef,August_Data_Matrix (1),2025-08,chunked beef
+5,1,Rice Noodle,15.0,36.91,data 3,,Rice Noodle,August_Data_Matrix (1),2025-08,rice noodle
+5,1,Braised Pork,9.0,29.82,data 3,,Braised Pork,August_Data_Matrix (1),2025-08,braised pork
+5,1,Braised Egg （2 half）,15.0,26.3,data 3,,Braised Egg （2 half）,August_Data_Matrix (1),2025-08,braised egg （2 half）
+5,1,Thai Milk Tea,5.0,24.37,data 3,,Thai Milk Tea,August_Data_Matrix (1),2025-08,thai milk tea
+5,1,White Rice,9.0,26.92,data 3,,White Rice,August_Data_Matrix (1),2025-08,white rice
+5,1,Blueberry Jas-Lemonade,6.0,20.52,data 3,,Blueberry Jas-Lemonade,August_Data_Matrix (1),2025-08,blueberry jas-lemonade
+5,1,Ramune - Strawberry,5.0,18.23,data 3,,Ramune - Strawberry,August_Data_Matrix (1),2025-08,ramune - strawberry
+5,1,BF chicken cutlet,2.0,15.0,data 3,,BF chicken cutlet,August_Data_Matrix (1),2025-08,bf chicken cutlet
+5,1,Braised Chicken,5.0,14.2,data 3,,Braised Chicken,August_Data_Matrix (1),2025-08,braised chicken
+5,1,Chili Pepper Fried Chicken (8),1.0,11.99,data 3,,Chili Pepper Fried Chicken (8),August_Data_Matrix (1),2025-08,chili pepper fried chicken (8)
+5,1,Tangy Honey Mustard Fried Chicken(8),1.0,11.99,data 3,,Tangy Honey Mustard Fried Chicken(8),August_Data_Matrix (1),2025-08,tangy honey mustard fried chicken(8)
+5,1,Bottled Water,7.0,12.64,data 3,,Bottled Water,August_Data_Matrix (1),2025-08,bottled water
+5,1,Wasabi Spiced Fried Chicken (8),1.0,9.99,data 3,,Wasabi Spiced Fried Chicken (8),August_Data_Matrix (1),2025-08,wasabi spiced fried chicken (8)
+5,1,Shrimp (8),4.0,12.84,data 3,,Shrimp (8),August_Data_Matrix (1),2025-08,shrimp (8)
+5,1,White Rice-To Go,3.0,9.5,data 3,,White Rice-To Go,August_Data_Matrix (1),2025-08,white rice-to go
+5,1,Crispy French Fries,2.0,7.98,data 3,,Crispy French Fries,August_Data_Matrix (1),2025-08,crispy french fries
+5,1,Pepsi Zero,2.0,7.32,data 3,,Pepsi Zero,August_Data_Matrix (1),2025-08,pepsi zero
+6,1,Ramune - Melon,2.0,6.58,data 3,,Ramune - Melon,August_Data_Matrix (1),2025-08,ramune - melon
+6,1,Sweet Tea,2.0,5.98,data 3,,Sweet Tea,August_Data_Matrix (1),2025-08,sweet tea
+6,1,Jumbo Chicken Tender (3),1.0,5.5,data 3,,Jumbo Chicken Tender (3),August_Data_Matrix (1),2025-08,jumbo chicken tender (3)
+6,1,Strawberry Milk Tea  (24oz),1.0,5.5,data 3,,Strawberry Milk Tea  (24oz),August_Data_Matrix (1),2025-08,strawberry milk tea  (24oz)
+6,1,Tropical Jas-Lemonade,2.0,3.8,data 3,,Tropical Jas-Lemonade,August_Data_Matrix (1),2025-08,tropical jas-lemonade
+6,1,Coconut Milk,1.0,3.66,data 3,,Coconut Milk,August_Data_Matrix (1),2025-08,coconut milk
+6,1,Ramune - Original,1.0,3.59,data 3,,Ramune - Original,August_Data_Matrix (1),2025-08,ramune - original
+6,1,Brown Sugar Milk Tea w. Boba (24oz),1.0,2.37,data 3,,Brown Sugar Milk Tea w. Boba (24oz),August_Data_Matrix (1),2025-08,brown sugar milk tea w. boba (24oz)
+6,1,Pork Bun (1),1.0,2.25,data 3,,Pork Bun (1),August_Data_Matrix (1),2025-08,pork bun (1)
+6,1,Open Food,1.0,1.5,data 3,,Open Food,August_Data_Matrix (1),2025-08,open food
+6,1,Popping boba -,1.0,1.0,data 3,,Popping boba -,August_Data_Matrix (1),2025-08,popping boba -
+6,1,Mai‘s special Sauce,1.0,1.0,data 3,,Mai‘s special Sauce,August_Data_Matrix (1),2025-08,mai‘s special sauce
+6,1,Popping boba - -1,1.0,0.0,data 3,,Popping boba - -1,August_Data_Matrix (1),2025-08,popping boba - -1
+6,1,Sliced Fruit  - 5 day expiration,17.0,0.0,data 3,,Sliced Fruit  - 5 day expiration,August_Data_Matrix (1),2025-08,sliced fruit  - 5 day expiration
+6,1,Brew Tea - 5 days exp,5.0,0.0,data 3,,Brew Tea - 5 days exp,August_Data_Matrix (1),2025-08,brew tea - 5 days exp
+6,1,Braised Chicken - 5 days exp,4.0,0.0,data 3,,Braised Chicken - 5 days exp,August_Data_Matrix (1),2025-08,braised chicken - 5 days exp
+6,1,Chunked Pork - 5 days exp,2.0,0.0,data 3,,Chunked Pork - 5 days exp,August_Data_Matrix (1),2025-08,chunked pork - 5 days exp
+6,1,Chunked Beef - 5 days exp,8.0,0.0,data 3,,Chunked Beef - 5 days exp,August_Data_Matrix (1),2025-08,chunked beef - 5 days exp
+6,1,Water,,0.0,data 3,,Water,August_Data_Matrix (1),2025-08,water
+6,1,Braised Egg,2.0,3.89,data 3,,Braised Egg,August_Data_Matrix (1),2025-08,braised egg
+1,1,Lunch Menu,398.0,5606.57,data 1,,,September_Data_Matrix,2025-09,lunch menu
+1,1,All Day Menu,,66146.96,data 1,,,September_Data_Matrix,2025-09,all day menu
+1,1,Signature Drinks,779.0,3483.07,data 1,,,September_Data_Matrix,2025-09,signature drinks
+1,1,Rice Noodle,454.0,6811.07,data 2,Rice Noodle,,September_Data_Matrix,2025-09,rice noodle
+1,1,Tossed Rice Noodle,442.0,6661.42,data 2,Tossed Rice Noodle,,September_Data_Matrix,2025-09,tossed rice noodle
+1,1,Mai Dessert,17.0,102.07,data 2,Mai Dessert,,September_Data_Matrix,2025-09,mai dessert
+1,1,Ramen,977.0,14615.3,data 2,Ramen,,September_Data_Matrix,2025-09,ramen
+1,1,Appetizer,,7227.69,data 2,Appetizer,,September_Data_Matrix,2025-09,appetizer
+1,1,Jas-Lemonade,90.0,385.39,data 2,Jas-Lemonade,,September_Data_Matrix,2025-09,jas-lemonade
+1,1,Fried Chicken,927.0,10955.24,data 2,Fried Chicken,,September_Data_Matrix,2025-09,fried chicken
+1,1,Fried Rice,451.0,6205.81,data 2,Fried Rice,,September_Data_Matrix,2025-09,fried rice
+1,1,Tossed Ramen,483.0,6981.17,data 2,Tossed Ramen,,September_Data_Matrix,2025-09,tossed ramen
+1,1,Lunch Special,398.0,5606.57,data 2,Lunch Special,,September_Data_Matrix,2025-09,lunch special
+1,1,Wonton,233.0,2592.89,data 2,Wonton,,September_Data_Matrix,2025-09,wonton
+1,1,Drink,,1737.27,data 2,Drink,,September_Data_Matrix,2025-09,drink
+1,1,Additonal,167.0,599.02,data 2,Additonal,,September_Data_Matrix,2025-09,additonal
+1,1,Combo Items,0.0,0.0,data 2,Combo Items,,September_Data_Matrix,2025-09,combo items
+1,1,Special Offer,131.0,1658.01,data 2,Special Offer,,September_Data_Matrix,2025-09,special offer
+1,1,Milk Tea,530.0,2417.89,data 2,Milk Tea,,September_Data_Matrix,2025-09,milk tea
+2,1,Prep item,1.0,0.0,data 2,Prep item,,September_Data_Matrix,2025-09,prep item
+2,1,Fruit Tea,159.0,679.79,data 2,Fruit Tea,,September_Data_Matrix,2025-09,fruit tea
+1,1,Beef Ramen,362.0,5626.37,data 3,,Beef Ramen,September_Data_Matrix,2025-09,beef ramen
+1,1,Lunch Special,398.0,5606.57,data 3,,Lunch Special,September_Data_Matrix,2025-09,lunch special
+1,1,Mai's BF Chicken Cutlet Combo,285.0,4312.18,data 3,,Mai's BF Chicken Cutlet Combo,September_Data_Matrix,2025-09,mai's bf chicken cutlet combo
+1,1,Pork Ramen,242.0,3360.22,data 3,,Pork Ramen,September_Data_Matrix,2025-09,pork ramen
+1,1,Chicken Ramen,205.0,2976.79,data 3,,Chicken Ramen,September_Data_Matrix,2025-09,chicken ramen
+1,1,Beef Tossed Ramen,188.0,2867.41,data 3,,Beef Tossed Ramen,September_Data_Matrix,2025-09,beef tossed ramen
+1,1,Beef Tossed Rice Noodle,154.0,2519.72,data 3,,Beef Tossed Rice Noodle,September_Data_Matrix,2025-09,beef tossed rice noodle
+1,1,Mai Special Fried Chicken(8),210.0,2225.58,data 3,,Mai Special Fried Chicken(8),September_Data_Matrix,2025-09,mai special fried chicken(8)
+1,1,Sichuan Chili Wontons,185.0,2054.87,data 3,,Sichuan Chili Wontons,September_Data_Matrix,2025-09,sichuan chili wontons
+1,1,House Ramen,119.0,1972.32,data 3,,House Ramen,September_Data_Matrix,2025-09,house ramen
+1,1,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",144.0,1968.55,data 3,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",September_Data_Matrix,2025-09,"mai's wing wheel (mai og, onion, honey, coco, special)"
+1,1,Chicken Rice Noodle Soup,133.0,1961.81,data 3,,Chicken Rice Noodle Soup,September_Data_Matrix,2025-09,chicken rice noodle soup
+1,1,Chicken Fried Rice,148.0,1849.24,data 3,,Chicken Fried Rice,September_Data_Matrix,2025-09,chicken fried rice
+1,1,Beef Rice Noodle Soup,115.0,1807.11,data 3,,Beef Rice Noodle Soup,September_Data_Matrix,2025-09,beef rice noodle soup
+1,1,Pork Tossed Ramen,137.0,1810.77,data 3,,Pork Tossed Ramen,September_Data_Matrix,2025-09,pork tossed ramen
+1,1,Pork Tossed Rice Noodle,115.0,1563.27,data 3,,Pork Tossed Rice Noodle,September_Data_Matrix,2025-09,pork tossed rice noodle
+2,1,Chicken Tossed Rice Noodles,104.0,1523.75,data 3,,Chicken Tossed Rice Noodles,September_Data_Matrix,2025-09,chicken tossed rice noodles
+2,1,Steamed Pork Buns,321.0,1423.98,data 3,,Steamed Pork Buns,September_Data_Matrix,2025-09,steamed pork buns
+2,1,Pork Rice Noodle Soup,95.0,1299.33,data 3,,Pork Rice Noodle Soup,September_Data_Matrix,2025-09,pork rice noodle soup
+2,1,Chicken Tossed Ramen,98.0,1399.24,data 3,,Chicken Tossed Ramen,September_Data_Matrix,2025-09,chicken tossed ramen
+2,1,House Rice Noodle Soup,81.0,1301.92,data 3,,House Rice Noodle Soup,September_Data_Matrix,2025-09,house rice noodle soup
+2,1,House Fried Rice,84.0,1206.15,data 3,,House Fried Rice,September_Data_Matrix,2025-09,house fried rice
+2,1,Shrimp Fried Rice,84.0,1112.14,data 3,,Shrimp Fried Rice,September_Data_Matrix,2025-09,shrimp fried rice
+2,1,Fried Pork Dumplings(10),111.0,1013.36,data 3,,Fried Pork Dumplings(10),September_Data_Matrix,2025-09,fried pork dumplings(10)
+2,1,Steam Pork Dumplings(10),116.0,1011.17,data 3,,Steam Pork Dumplings(10),September_Data_Matrix,2025-09,steam pork dumplings(10)
+2,1,Cream Cheese Rangoon(6),148.0,938.89,data 3,,Cream Cheese Rangoon(6),September_Data_Matrix,2025-09,cream cheese rangoon(6)
+2,1,Beef Fried Rice,63.0,831.05,data 3,,Beef Fried Rice,September_Data_Matrix,2025-09,beef fried rice
+2,1,Brown Sugar Milk Tea w. boba,169.0,734.42,data 3,,Brown Sugar Milk Tea w. boba,September_Data_Matrix,2025-09,brown sugar milk tea w. boba
+2,1,Thai Milk Tea w. boba,160.0,716.2,data 3,,Thai Milk Tea w. boba,September_Data_Matrix,2025-09,thai milk tea w. boba
+2,1,Vegetable Fried Rice,32.0,672.43,data 3,,Vegetable Fried Rice,September_Data_Matrix,2025-09,vegetable fried rice
+2,1,Crispy Spring Roll(3),133.0,674.23,data 3,,Crispy Spring Roll(3),September_Data_Matrix,2025-09,crispy spring roll(3)
+2,1,Vegetable Ramen,49.0,679.6,data 3,,Vegetable Ramen,September_Data_Matrix,2025-09,vegetable ramen
+2,1,House Tossed Rice Noodle,39.0,646.75,data 3,,House Tossed Rice Noodle,September_Data_Matrix,2025-09,house tossed rice noodle
+2,1,Mai's Golden Flake Fried Chicken(8),56.0,596.99,data 3,,Mai's Golden Flake Fried Chicken(8),September_Data_Matrix,2025-09,mai's golden flake fried chicken(8)
+2,1,House Tossed Ramen,35.0,568.0,data 3,,House Tossed Ramen,September_Data_Matrix,2025-09,house tossed ramen
+2,1,Wonton Soup,48.0,538.02,data 3,,Wonton Soup,September_Data_Matrix,2025-09,wonton soup
+2,1,Pork Fried Rice,40.0,534.8,data 3,,Pork Fried Rice,September_Data_Matrix,2025-09,pork fried rice
+2,1,Citrus Honey Fried Chicken  (8),48.0,489.69,data 3,,Citrus Honey Fried Chicken  (8),September_Data_Matrix,2025-09,citrus honey fried chicken  (8)
+3,1,Golden Coconut Crunch Chicken(8),45.0,454.18,data 3,,Golden Coconut Crunch Chicken(8),September_Data_Matrix,2025-09,golden coconut crunch chicken(8)
+3,1,Tempura Shrimp(3),95.0,473.75,data 3,,Tempura Shrimp(3),September_Data_Matrix,2025-09,tempura shrimp(3)
+3,1,Vegetable Rice Noodle Soup,30.0,440.89,data 3,,Vegetable Rice Noodle Soup,September_Data_Matrix,2025-09,vegetable rice noodle soup
+3,1,Chili Pepper Fried Chicken（8）,44.0,449.47,data 3,,Chili Pepper Fried Chicken（8）,September_Data_Matrix,2025-09,chili pepper fried chicken（8）
+3,1,Spicy Cucumber Salad,75.0,412.16,data 3,,Spicy Cucumber Salad,September_Data_Matrix,2025-09,spicy cucumber salad
+3,1,Vegetable Tossed Rice Noodle,29.0,391.93,data 3,,Vegetable Tossed Rice Noodle,September_Data_Matrix,2025-09,vegetable tossed rice noodle
+3,1,Matcha Milk Tea w. boba,81.0,397.22,data 3,,Matcha Milk Tea w. boba,September_Data_Matrix,2025-09,matcha milk tea w. boba
+3,1,Mango Milk Tea,81.0,383.84,data 3,,Mango Milk Tea,September_Data_Matrix,2025-09,mango milk tea
+3,1,Mai's BF Chicken Cutlet,54.0,384.46,data 3,,Mai's BF Chicken Cutlet,September_Data_Matrix,2025-09,mai's bf chicken cutlet
+3,1,Strawberry Sunrise,91.0,371.18,data 3,,Strawberry Sunrise,September_Data_Matrix,2025-09,strawberry sunrise
+3,1,Mai BF Chicken Cutlet Combo,22.0,386.37,data 3,,Mai BF Chicken Cutlet Combo,September_Data_Matrix,2025-09,mai bf chicken cutlet combo
+3,1,Brown Sugar Rice Cake (5),68.0,363.09,data 3,,Brown Sugar Rice Cake (5),September_Data_Matrix,2025-09,brown sugar rice cake (5)
+3,1,Vegetable Tossed Ramen,25.0,335.76,data 3,,Vegetable Tossed Ramen,September_Data_Matrix,2025-09,vegetable tossed ramen
+3,1,Mai OG Fried Chicken Wings(4),56.0,305.06,data 3,,Mai OG Fried Chicken Wings(4),September_Data_Matrix,2025-09,mai og fried chicken wings(4)
+3,1,Golden Kiwi,68.0,308.61,data 3,,Golden Kiwi,September_Data_Matrix,2025-09,golden kiwi
+3,1,Pepsi,98.0,288.33,data 3,,Pepsi,September_Data_Matrix,2025-09,pepsi
+3,1,Crispy Pork Egg Roll(3),72.0,294.48,data 3,,Crispy Pork Egg Roll(3),September_Data_Matrix,2025-09,crispy pork egg roll(3)
+3,1,Onion Glory Fried Chicken(8),28.0,283.72,data 3,,Onion Glory Fried Chicken(8),September_Data_Matrix,2025-09,onion glory fried chicken(8)
+3,1,Jumbo Chicken Tenders Combo (3),26.0,272.32,data 3,,Jumbo Chicken Tenders Combo (3),September_Data_Matrix,2025-09,jumbo chicken tenders combo (3)
+3,1,Mai Buffalo Chicken Wings(8),27.0,274.23,data 3,,Mai Buffalo Chicken Wings(8),September_Data_Matrix,2025-09,mai buffalo chicken wings(8)
+3,1,Dr. Pepper,87.0,257.85,data 3,,Dr. Pepper,September_Data_Matrix,2025-09,dr. pepper
+3,1,Sweet Ice Tea,78.0,231.16,data 3,,Sweet Ice Tea,September_Data_Matrix,2025-09,sweet ice tea
+4,1,Steam Pork Bun （3）,33.0,223.69,data 3,,Steam Pork Bun （3）,September_Data_Matrix,2025-09,steam pork bun （3）
+4,1,Specialty Drink,71.0,205.59,data 3,,Specialty Drink,September_Data_Matrix,2025-09,specialty drink
+4,1,Crispy French Fries(LG),52.0,207.76,data 3,,Crispy French Fries(LG),September_Data_Matrix,2025-09,crispy french fries(lg)
+4,1,Sweet Sesame Ball (6) w. red bean,43.0,211.83,data 3,,Sweet Sesame Ball (6) w. red bean,September_Data_Matrix,2025-09,sweet sesame ball (6) w. red bean
+4,1,Tangy Honey Mustard Fried Chicken (8),18.0,181.85,data 3,,Tangy Honey Mustard Fried Chicken (8),September_Data_Matrix,2025-09,tangy honey mustard fried chicken (8)
+4,1,Pepsi zero,61.0,180.29,data 3,,Pepsi zero,September_Data_Matrix,2025-09,pepsi zero
+4,1,Strawberry Milk Tea,39.0,186.22,data 3,,Strawberry Milk Tea,September_Data_Matrix,2025-09,strawberry milk tea
+4,1,Unsweet Ice Tea,48.0,141.77,data 3,,Unsweet Ice Tea,September_Data_Matrix,2025-09,unsweet ice tea
+4,1,Braised Chicken,4.0,109.59,data 3,,Braised Chicken,September_Data_Matrix,2025-09,braised chicken
+4,1,Lemonade,38.0,111.42,data 3,,Lemonade,September_Data_Matrix,2025-09,lemonade
+4,1,Jumbo Chicken Tenders(3),18.0,109.98,data 3,,Jumbo Chicken Tenders(3),September_Data_Matrix,2025-09,jumbo chicken tenders(3)
+4,1,Chunked Beef,8.0,106.24,data 3,,Chunked Beef,September_Data_Matrix,2025-09,chunked beef
+4,1,Hot Tea,37.0,109.19,data 3,,Hot Tea,September_Data_Matrix,2025-09,hot tea
+4,1,Lychee Jas-Lemonade,23.0,102.87,data 3,,Lychee Jas-Lemonade,September_Data_Matrix,2025-09,lychee jas-lemonade
+4,1,Plain Fried Rice,25.0,103.28,data 3,,Plain Fried Rice,September_Data_Matrix,2025-09,plain fried rice
+4,1,Mango Jas-Lemonade,21.0,88.84,data 3,,Mango Jas-Lemonade,September_Data_Matrix,2025-09,mango jas-lemonade
+4,1,Strawberry Jas-Lemonade,24.0,93.51,data 3,,Strawberry Jas-Lemonade,September_Data_Matrix,2025-09,strawberry jas-lemonade
+4,1,White Rice,27.0,80.94,data 3,,White Rice,September_Data_Matrix,2025-09,white rice
+4,1,Starry - Sprite,22.0,64.64,data 3,,Starry - Sprite,September_Data_Matrix,2025-09,starry - sprite
+4,1,White Rice - DINE IN,42.0,62.75,data 3,,White Rice - DINE IN,September_Data_Matrix,2025-09,white rice - dine in
+4,1,Orange Crush,18.0,47.42,data 3,,Orange Crush,September_Data_Matrix,2025-09,orange crush
+4,1,Rice Noodle,17.0,45.55,data 3,,Rice Noodle,September_Data_Matrix,2025-09,rice noodle
+5,1,Bottled Soda,12.0,35.81,data 3,,Bottled Soda,September_Data_Matrix,2025-09,bottled soda
+5,1,Original Jas-Lemonade,7.0,32.3,data 3,,Original Jas-Lemonade,September_Data_Matrix,2025-09,original jas-lemonade
+5,1,Peach Jas-Lemonade,7.0,30.52,data 3,,Peach Jas-Lemonade,September_Data_Matrix,2025-09,peach jas-lemonade
+5,1,Ramen,13.0,32.18,data 3,,Ramen,September_Data_Matrix,2025-09,ramen
+5,1,Braised Egg （2 half）,16.0,27.74,data 3,,Braised Egg （2 half）,September_Data_Matrix,2025-09,braised egg （2 half）
+5,1,Pepsi Zero,6.0,21.96,data 3,,Pepsi Zero,September_Data_Matrix,2025-09,pepsi zero
+5,1,Blueberry Jas-Lemonade,5.0,24.73,data 3,,Blueberry Jas-Lemonade,September_Data_Matrix,2025-09,blueberry jas-lemonade
+5,1,Braised Pork,4.0,12.68,data 3,,Braised Pork,September_Data_Matrix,2025-09,braised pork
+5,1,Tropical Jas-Lemonade,3.0,12.62,data 3,,Tropical Jas-Lemonade,September_Data_Matrix,2025-09,tropical jas-lemonade
+5,1,Ramune - Grape,3.0,10.98,data 3,,Ramune - Grape,September_Data_Matrix,2025-09,ramune - grape
+5,1,Ramune - Strawberry,3.0,10.98,data 3,,Ramune - Strawberry,September_Data_Matrix,2025-09,ramune - strawberry
+5,1,北冰洋 Orange Soda,2.0,7.32,data 3,,北冰洋 Orange Soda,September_Data_Matrix,2025-09,北冰洋 orange soda
+5,1,Braised Egg,3.0,6.42,data 3,,Braised Egg,September_Data_Matrix,2025-09,braised egg
+5,1,Mai‘s special Sauce,5.0,6.15,data 3,,Mai‘s special Sauce,September_Data_Matrix,2025-09,mai‘s special sauce
+5,1,Bottled Water,3.0,5.25,data 3,,Bottled Water,September_Data_Matrix,2025-09,bottled water
+5,1,Sweet Tea,1.0,3.66,data 3,,Sweet Tea,September_Data_Matrix,2025-09,sweet tea
+5,1,Ramune - Melon,1.0,3.66,data 3,,Ramune - Melon,September_Data_Matrix,2025-09,ramune - melon
+5,1,White Rice-To Go,2.0,4.5,data 3,,White Rice-To Go,September_Data_Matrix,2025-09,white rice-to go
+5,1,Mai‘s Special Sauce,1.0,1.0,data 3,,Mai‘s Special Sauce,September_Data_Matrix,2025-09,mai‘s special sauce
+5,1,Water,,0.0,data 3,,Water,September_Data_Matrix,2025-09,water
+5,1,Sliced Fruit  - 5 day expiration,1.0,0.0,data 3,,Sliced Fruit  - 5 day expiration,September_Data_Matrix,2025-09,sliced fruit  - 5 day expiration
+5,1,House Tossed Rice Noodle,1.0,15.99,data 3,,House Tossed Rice Noodle,September_Data_Matrix,2025-09,house tossed rice noodle
+1,1,Tossed Rice Noodle,391.0,5971.41,data 1,Tossed Rice Noodle,,October_Data_Matrix_20251103_214000,2025-10,tossed rice noodle
+1,1,Tossed Ramen,460.0,6591.08,data 1,Tossed Ramen,,October_Data_Matrix_20251103_214000,2025-10,tossed ramen
+1,1,Ramen,940.0,14097.72,data 1,Ramen,,October_Data_Matrix_20251103_214000,2025-10,ramen
+1,1,Fried Chicken,939.0,10965.23,data 1,Fried Chicken,,October_Data_Matrix_20251103_214000,2025-10,fried chicken
+1,1,Fruit Tea,105.0,460.01,data 1,Fruit Tea,,October_Data_Matrix_20251103_214000,2025-10,fruit tea
+1,1,Fried Rice,492.0,6911.21,data 1,Fried Rice,,October_Data_Matrix_20251103_214000,2025-10,fried rice
+1,1,Additonal,198.0,508.54,data 1,Additonal,,October_Data_Matrix_20251103_214000,2025-10,additonal
+1,1,Appetizer,,7416.47,data 1,Appetizer,,October_Data_Matrix_20251103_214000,2025-10,appetizer
+1,1,Dessert,31.0,153.64,data 1,Dessert,,October_Data_Matrix_20251103_214000,2025-10,dessert
+1,1,Lunch Special,366.0,5149.01,data 1,Lunch Special,,October_Data_Matrix_20251103_214000,2025-10,lunch special
+1,1,Milk Tea,555.0,2527.77,data 1,Milk Tea,,October_Data_Matrix_20251103_214000,2025-10,milk tea
+1,1,Special Offer,115.0,1344.64,data 1,Special Offer,,October_Data_Matrix_20251103_214000,2025-10,special offer
+1,1,Wonton,213.0,2406.52,data 1,Wonton,,October_Data_Matrix_20251103_214000,2025-10,wonton
+1,1,Drink,,1820.99,data 1,Drink,,October_Data_Matrix_20251103_214000,2025-10,drink
+1,1,Open Food,2.0,9.31,data 1,Open Food,,October_Data_Matrix_20251103_214000,2025-10,open food
+1,1,Bingsu,12.0,60.52,data 1,Bingsu,,October_Data_Matrix_20251103_214000,2025-10,bingsu
+2,1,Combo Items,0.0,0.0,data 1,Combo Items,,October_Data_Matrix_20251103_214000,2025-10,combo items
+2,1,Jas-Lemonade,104.0,461.33,data 1,Jas-Lemonade,,October_Data_Matrix_20251103_214000,2025-10,jas-lemonade
+2,1,Rice Noodle,410.0,6167.13,data 1,Rice Noodle,,October_Data_Matrix_20251103_214000,2025-10,rice noodle
+2,1,Mai Dessert,33.0,184.81,data 1,Mai Dessert,,October_Data_Matrix_20251103_214000,2025-10,mai dessert
+1,1,Beef Ramen,357.0,5600.47,data 2,,Beef Ramen,October_Data_Matrix_20251103_214000,2025-10,beef ramen
+1,1,Lunch Special,366.0,5149.01,data 2,,Lunch Special,October_Data_Matrix_20251103_214000,2025-10,lunch special
+1,1,Mai's BF Chicken Cutlet Combo,266.0,4080.53,data 2,,Mai's BF Chicken Cutlet Combo,October_Data_Matrix_20251103_214000,2025-10,mai's bf chicken cutlet combo
+1,1,Pork Ramen,227.0,3194.81,data 2,,Pork Ramen,October_Data_Matrix_20251103_214000,2025-10,pork ramen
+1,1,Chicken Ramen,204.0,2934.9,data 2,,Chicken Ramen,October_Data_Matrix_20251103_214000,2025-10,chicken ramen
+1,1,Beef Tossed Rice Noodle,155.0,2522.59,data 2,,Beef Tossed Rice Noodle,October_Data_Matrix_20251103_214000,2025-10,beef tossed rice noodle
+1,1,Beef Tossed Ramen,170.0,2547.87,data 2,,Beef Tossed Ramen,October_Data_Matrix_20251103_214000,2025-10,beef tossed ramen
+1,1,Chicken Fried Rice,190.0,2379.19,data 2,,Chicken Fried Rice,October_Data_Matrix_20251103_214000,2025-10,chicken fried rice
+1,1,Mai Special Fried Chicken(8),200.0,2002.64,data 2,,Mai Special Fried Chicken(8),October_Data_Matrix_20251103_214000,2025-10,mai special fried chicken(8)
+1,1,Chicken Rice Noodle Soup,133.0,1979.08,data 2,,Chicken Rice Noodle Soup,October_Data_Matrix_20251103_214000,2025-10,chicken rice noodle soup
+1,1,Sichuan Chili Wontons,165.0,1867.63,data 2,,Sichuan Chili Wontons,October_Data_Matrix_20251103_214000,2025-10,sichuan chili wontons
+1,1,Pork Tossed Ramen,144.0,1917.99,data 2,,Pork Tossed Ramen,October_Data_Matrix_20251103_214000,2025-10,pork tossed ramen
+1,1,Beef Rice Noodle Soup,118.0,1837.62,data 2,,Beef Rice Noodle Soup,October_Data_Matrix_20251103_214000,2025-10,beef rice noodle soup
+1,1,Steamed Pork Buns,349.0,1735.84,data 2,,Steamed Pork Buns,October_Data_Matrix_20251103_214000,2025-10,steamed pork buns
+1,1,House Ramen,97.0,1595.96,data 2,,House Ramen,October_Data_Matrix_20251103_214000,2025-10,house ramen
+1,1,Pork Tossed Rice Noodle,105.0,1423.4,data 2,,Pork Tossed Rice Noodle,October_Data_Matrix_20251103_214000,2025-10,pork tossed rice noodle
+2,1,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",106.0,1436.39,data 2,,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",October_Data_Matrix_20251103_214000,2025-10,"mai's wing wheel (mai og, onion, honey, coco, special)"
+2,1,Chicken Tossed Ramen,93.0,1317.34,data 2,,Chicken Tossed Ramen,October_Data_Matrix_20251103_214000,2025-10,chicken tossed ramen
+2,1,Mai's Golden Flake Fried Chicken(8),81.0,1171.06,data 2,,Mai's Golden Flake Fried Chicken(8),October_Data_Matrix_20251103_214000,2025-10,mai's golden flake fried chicken(8)
+2,1,Fried Pork Dumplings(10),136.0,1239.72,data 2,,Fried Pork Dumplings(10),October_Data_Matrix_20251103_214000,2025-10,fried pork dumplings(10)
+2,1,Beef Fried Rice,82.0,1175.2,data 2,,Beef Fried Rice,October_Data_Matrix_20251103_214000,2025-10,beef fried rice
+2,1,Chicken Tossed Rice Noodles,73.0,1041.0,data 2,,Chicken Tossed Rice Noodles,October_Data_Matrix_20251103_214000,2025-10,chicken tossed rice noodles
+2,1,Cream Cheese Rangoon(6),147.0,1085.89,data 2,,Cream Cheese Rangoon(6),October_Data_Matrix_20251103_214000,2025-10,cream cheese rangoon(6)
+2,1,Shrimp Fried Rice,78.0,1056.36,data 2,,Shrimp Fried Rice,October_Data_Matrix_20251103_214000,2025-10,shrimp fried rice
+2,1,Steam Pork Dumplings(10),114.0,1008.12,data 2,,Steam Pork Dumplings(10),October_Data_Matrix_20251103_214000,2025-10,steam pork dumplings(10)
+2,1,Pork Rice Noodle Soup,68.0,933.28,data 2,,Pork Rice Noodle Soup,October_Data_Matrix_20251103_214000,2025-10,pork rice noodle soup
+2,1,House Fried Rice,63.0,906.49,data 2,,House Fried Rice,October_Data_Matrix_20251103_214000,2025-10,house fried rice
+2,1,House Rice Noodle Soup,59.0,974.87,data 2,,House Rice Noodle Soup,October_Data_Matrix_20251103_214000,2025-10,house rice noodle soup
+2,1,Vegetable Fried Rice,39.0,805.56,data 2,,Vegetable Fried Rice,October_Data_Matrix_20251103_214000,2025-10,vegetable fried rice
+2,1,Mai's BF Chicken Cutlet,109.0,781.11,data 2,,Mai's BF Chicken Cutlet,October_Data_Matrix_20251103_214000,2025-10,mai's bf chicken cutlet
+2,1,Vegetable Ramen,55.0,771.57,data 2,,Vegetable Ramen,October_Data_Matrix_20251103_214000,2025-10,vegetable ramen
+2,1,Thai Milk Tea w. boba,166.0,738.59,data 2,,Thai Milk Tea w. boba,October_Data_Matrix_20251103_214000,2025-10,thai milk tea w. boba
+2,1,Brown Sugar Milk Tea w. boba,169.0,728.16,data 2,,Brown Sugar Milk Tea w. boba,October_Data_Matrix_20251103_214000,2025-10,brown sugar milk tea w. boba
+2,1,House Tossed Rice Noodle,41.0,682.06,data 2,,House Tossed Rice Noodle,October_Data_Matrix_20251103_214000,2025-10,house tossed rice noodle
+2,1,Pork Fried Rice,40.0,588.41,data 2,,Pork Fried Rice,October_Data_Matrix_20251103_214000,2025-10,pork fried rice
+2,1,Wonton Soup,48.0,538.9,data 2,,Wonton Soup,October_Data_Matrix_20251103_214000,2025-10,wonton soup
+2,1,Crispy Spring Roll(3),111.0,514.27,data 2,,Crispy Spring Roll(3),October_Data_Matrix_20251103_214000,2025-10,crispy spring roll(3)
+2,1,Chili Pepper Fried Chicken（8）,50.0,494.84,data 2,,Chili Pepper Fried Chicken（8）,October_Data_Matrix_20251103_214000,2025-10,chili pepper fried chicken（8）
+3,1,House Tossed Ramen,32.0,516.72,data 2,,House Tossed Ramen,October_Data_Matrix_20251103_214000,2025-10,house tossed ramen
+3,1,Tempura Shrimp(3),88.0,445.43,data 2,,Tempura Shrimp(3),October_Data_Matrix_20251103_214000,2025-10,tempura shrimp(3)
+3,1,Vegetable Rice Noodle Soup,32.0,442.28,data 2,,Vegetable Rice Noodle Soup,October_Data_Matrix_20251103_214000,2025-10,vegetable rice noodle soup
+3,1,Golden Coconut Crunch Chicken(8),42.0,422.19,data 2,,Golden Coconut Crunch Chicken(8),October_Data_Matrix_20251103_214000,2025-10,golden coconut crunch chicken(8)
+3,1,Jumbo Chicken Tenders Combo (3),39.0,391.75,data 2,,Jumbo Chicken Tenders Combo (3),October_Data_Matrix_20251103_214000,2025-10,jumbo chicken tenders combo (3)
+3,1,Matcha Milk Tea w. boba,88.0,445.74,data 2,,Matcha Milk Tea w. boba,October_Data_Matrix_20251103_214000,2025-10,matcha milk tea w. boba
+3,1,Crispy Pork Egg Roll(3),91.0,372.53,data 2,,Crispy Pork Egg Roll(3),October_Data_Matrix_20251103_214000,2025-10,crispy pork egg roll(3)
+3,1,Mango Milk Tea,82.0,381.28,data 2,,Mango Milk Tea,October_Data_Matrix_20251103_214000,2025-10,mango milk tea
+3,1,Spicy Cucumber Salad,64.0,356.75,data 2,,Spicy Cucumber Salad,October_Data_Matrix_20251103_214000,2025-10,spicy cucumber salad
+3,1,Sweet Sesame Ball (6) w. red bean,66.0,326.11,data 2,,Sweet Sesame Ball (6) w. red bean,October_Data_Matrix_20251103_214000,2025-10,sweet sesame ball (6) w. red bean
+3,1,Steam Pork Bun （3）,39.0,294.51,data 2,,Steam Pork Bun （3）,October_Data_Matrix_20251103_214000,2025-10,steam pork bun （3）
+3,1,Vegetable Tossed Rice Noodle,17.0,302.35,data 2,,Vegetable Tossed Rice Noodle,October_Data_Matrix_20251103_214000,2025-10,vegetable tossed rice noodle
+3,1,Dr. Pepper,98.0,291.57,data 2,,Dr. Pepper,October_Data_Matrix_20251103_214000,2025-10,dr. pepper
+3,1,Vegetable Tossed Ramen,21.0,291.16,data 2,,Vegetable Tossed Ramen,October_Data_Matrix_20251103_214000,2025-10,vegetable tossed ramen
+3,1,Pepsi,90.0,268.09,data 2,,Pepsi,October_Data_Matrix_20251103_214000,2025-10,pepsi
+3,1,Brown Sugar Rice Cake (5),50.0,268.38,data 2,,Brown Sugar Rice Cake (5),October_Data_Matrix_20251103_214000,2025-10,brown sugar rice cake (5)
+3,1,Citrus Honey Fried Chicken  (8),29.0,286.81,data 2,,Citrus Honey Fried Chicken  (8),October_Data_Matrix_20251103_214000,2025-10,citrus honey fried chicken  (8)
+3,1,Pepsi zero,94.0,277.37,data 2,,Pepsi zero,October_Data_Matrix_20251103_214000,2025-10,pepsi zero
+3,1,Tangy Honey Mustard Fried Chicken (8),26.0,257.33,data 2,,Tangy Honey Mustard Fried Chicken (8),October_Data_Matrix_20251103_214000,2025-10,tangy honey mustard fried chicken (8)
+3,1,Onion Glory Fried Chicken(8),22.0,223.8,data 2,,Onion Glory Fried Chicken(8),October_Data_Matrix_20251103_214000,2025-10,onion glory fried chicken(8)
+3,1,Strawberry Sunrise,59.0,252.37,data 2,,Strawberry Sunrise,October_Data_Matrix_20251103_214000,2025-10,strawberry sunrise
+3,1,Strawberry Milk Tea,50.0,234.01,data 2,,Strawberry Milk Tea,October_Data_Matrix_20251103_214000,2025-10,strawberry milk tea
+4,1,Mai OG Fried Chicken Wings(4),42.0,217.46,data 2,,Mai OG Fried Chicken Wings(4),October_Data_Matrix_20251103_214000,2025-10,mai og fried chicken wings(4)
+4,1,Golden Kiwi,46.0,207.64,data 2,,Golden Kiwi,October_Data_Matrix_20251103_214000,2025-10,golden kiwi
+4,1,Sweet Ice Tea,71.0,209.81,data 2,,Sweet Ice Tea,October_Data_Matrix_20251103_214000,2025-10,sweet ice tea
+4,1,Plain Fried Rice,43.0,182.43,data 2,,Plain Fried Rice,October_Data_Matrix_20251103_214000,2025-10,plain fried rice
+4,1,Crispy French Fries(LG),47.0,184.41,data 2,,Crispy French Fries(LG),October_Data_Matrix_20251103_214000,2025-10,crispy french fries(lg)
+4,1,Specialty Drink,57.0,169.58,data 2,,Specialty Drink,October_Data_Matrix_20251103_214000,2025-10,specialty drink
+4,1,Mai BF Chicken Cutlet Combo,10.0,175.94,data 2,,Mai BF Chicken Cutlet Combo,October_Data_Matrix_20251103_214000,2025-10,mai bf chicken cutlet combo
+4,1,Mai Buffalo Chicken Wings(8),20.0,193.97,data 2,,Mai Buffalo Chicken Wings(8),October_Data_Matrix_20251103_214000,2025-10,mai buffalo chicken wings(8)
+4,1,Mango Jas-Lemonade,38.0,168.05,data 2,,Mango Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,mango jas-lemonade
+4,1,Unsweet Ice Tea,53.0,154.07,data 2,,Unsweet Ice Tea,October_Data_Matrix_20251103_214000,2025-10,unsweet ice tea
+4,1,Hot Tea,39.0,115.78,data 2,,Hot Tea,October_Data_Matrix_20251103_214000,2025-10,hot tea
+4,1,Strawberry Jas-Lemonade,29.0,130.03,data 2,,Strawberry Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,strawberry jas-lemonade
+4,1,Lemonade,38.0,108.96,data 2,,Lemonade,October_Data_Matrix_20251103_214000,2025-10,lemonade
+4,1,Starry - Sprite,25.0,73.66,data 2,,Starry - Sprite,October_Data_Matrix_20251103_214000,2025-10,starry - sprite
+4,1,Jumbo Chicken Tenders(3),15.0,97.02,data 2,,Jumbo Chicken Tenders(3),October_Data_Matrix_20251103_214000,2025-10,jumbo chicken tenders(3)
+4,1,Original Jas-Lemonade,15.0,63.99,data 2,,Original Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,original jas-lemonade
+4,1,Ramen,26.0,65.93,data 2,,Ramen,October_Data_Matrix_20251103_214000,2025-10,ramen
+4,1,White Rice - DINE IN,42.0,60.26,data 2,,White Rice - DINE IN,October_Data_Matrix_20251103_214000,2025-10,white rice - dine in
+4,1,White Rice,19.0,58.14,data 2,,White Rice,October_Data_Matrix_20251103_214000,2025-10,white rice
+4,1,Bottled Soda,16.0,48.26,data 2,,Bottled Soda,October_Data_Matrix_20251103_214000,2025-10,bottled soda
+4,1,Peach Jas-Lemonade,8.0,37.01,data 2,,Peach Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,peach jas-lemonade
+4,1,Orange Crush,13.0,39.39,data 2,,Orange Crush,October_Data_Matrix_20251103_214000,2025-10,orange crush
+5,1,Lychee Jas-Lemonade,7.0,30.7,data 2,,Lychee Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,lychee jas-lemonade
+5,1,Rice Noodle,11.0,27.7,data 2,,Rice Noodle,October_Data_Matrix_20251103_214000,2025-10,rice noodle
+5,1,Mai‘s special Sauce,21.0,25.6,data 2,,Mai‘s special Sauce,October_Data_Matrix_20251103_214000,2025-10,mai‘s special sauce
+5,1,Pepsi Zero,6.0,21.29,data 2,,Pepsi Zero,October_Data_Matrix_20251103_214000,2025-10,pepsi zero
+5,1,White Rice-To Go,10.0,23.75,data 2,,White Rice-To Go,October_Data_Matrix_20251103_214000,2025-10,white rice-to go
+5,1,Braised Egg （2 half）,12.0,21.0,data 2,,Braised Egg （2 half）,October_Data_Matrix_20251103_214000,2025-10,braised egg （2 half）
+5,1,Tropical Jas-Lemonade,3.0,15.0,data 2,,Tropical Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,tropical jas-lemonade
+5,1,Mango Bingsu,2.0,14.29,data 2,,Mango Bingsu,October_Data_Matrix_20251103_214000,2025-10,mango bingsu
+5,1,Brown Sugar Bingsu,4.0,20.25,data 2,,Brown Sugar Bingsu,October_Data_Matrix_20251103_214000,2025-10,brown sugar bingsu
+5,1,Ramune - Strawberry,4.0,13.3,data 2,,Ramune - Strawberry,October_Data_Matrix_20251103_214000,2025-10,ramune - strawberry
+5,1,Shrimp (8),4.0,13.0,data 2,,Shrimp (8),October_Data_Matrix_20251103_214000,2025-10,shrimp (8)
+5,1,Blueberry Jas-Lemonade,4.0,16.55,data 2,,Blueberry Jas-Lemonade,October_Data_Matrix_20251103_214000,2025-10,blueberry jas-lemonade
+5,1,Thai Bingsu,4.0,19.23,data 2,,Thai Bingsu,October_Data_Matrix_20251103_214000,2025-10,thai bingsu
+5,1,Chunked Beef,3.0,12.32,data 2,,Chunked Beef,October_Data_Matrix_20251103_214000,2025-10,chunked beef
+5,1,Open Food,2.0,9.31,data 2,,Open Food,October_Data_Matrix_20251103_214000,2025-10,open food
+5,1,Bottled Water,5.0,8.58,data 2,,Bottled Water,October_Data_Matrix_20251103_214000,2025-10,bottled water
+5,1,Ramune - Grape,2.0,7.32,data 2,,Ramune - Grape,October_Data_Matrix_20251103_214000,2025-10,ramune - grape
+5,1,Braised Pork,2.0,7.23,data 2,,Braised Pork,October_Data_Matrix_20251103_214000,2025-10,braised pork
+5,1,Strawberry Bingsu,2.0,6.75,data 2,,Strawberry Bingsu,October_Data_Matrix_20251103_214000,2025-10,strawberry bingsu
+5,1,Coconut Milk,2.0,6.65,data 2,,Coconut Milk,October_Data_Matrix_20251103_214000,2025-10,coconut milk
+5,1,Braised Egg,3.0,6.42,data 2,,Braised Egg,October_Data_Matrix_20251103_214000,2025-10,braised egg
+5,1,北冰洋 Orange Soda,1.0,3.66,data 2,,北冰洋 Orange Soda,October_Data_Matrix_20251103_214000,2025-10,北冰洋 orange soda
+6,1,Ramune - Melon,1.0,3.66,data 2,,Ramune - Melon,October_Data_Matrix_20251103_214000,2025-10,ramune - melon
+6,1,Braised Chicken,1.0,3.25,data 2,,Braised Chicken,October_Data_Matrix_20251103_214000,2025-10,braised chicken
+6,1,soup to go,1.0,1.5,data 2,,soup to go,October_Data_Matrix_20251103_214000,2025-10,soup to go
+6,1,Water,,0.0,data 2,,Water,October_Data_Matrix_20251103_214000,2025-10,water
+1,1,Signature Drinks,776.0,3509.64,data 3,,,October_Data_Matrix_20251103_214000,2025-10,signature drinks
+1,1,Lunch Menu,366.0,5149.01,data 3,,,October_Data_Matrix_20251103_214000,2025-10,lunch menu
+1,1,Open Food,2.0,9.31,data 3,,,October_Data_Matrix_20251103_214000,2025-10,open food
+1,1,All Day Menu,,64539.39,data 3,,,October_Data_Matrix_20251103_214000,2025-10,all day menu

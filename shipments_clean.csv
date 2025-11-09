@@ -1,0 +1,16 @@
+ingredient,quantity_per_shipment,unit_of_shipment,number_of_shipments,frequency,ingredient_norm,quantity_in_grams
+Beef,40.0,lbs,3,weekly,braised beef used,18143.68
+Chicken,40.0,lbs,2,weekly,braised chicken,18143.68
+Ramen,50.0,rolls,15,biweekly,ramen,5000.0
+Rice Noodles,50.0,lbs,2,monthly,rice noodles,22679.6
+Flour,50.0,lbs,2,monthly,flour,22679.6
+Tapioca Starch,25.0,lbs,1,monthly,tapioca starch,11339.8
+Rice,50.0,lbs,2,Biweekly,rice,22679.6
+Green Onion,20.0,lbs,2,weekly,green onion,9071.84
+White Onion,80.0,whole onion,4,weekly,white onion,12000.0
+Cilantro,5.0,lbs,2,weekly,cilantro,2267.96
+Egg,120.0,eggs,5,weekly,egg,6000.0
+Bokchoy,25.0,lbs,5,weekly,bokchoy,11339.8
+Chicken Wings,380.0,pieces,10,weekly,chicken wings,38000.0
+Peas + Carrot,20.0,lbs,3,weekly,peas,9071.84
+Peas + Carrot,20.0,lbs,3,weekly,carrot,9071.84
