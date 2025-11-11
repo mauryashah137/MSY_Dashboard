@@ -1,6 +1,6 @@
 # Mai Shan Yun Analytics Dashboard
 
-Dashboard Link: https://maishanyun-restaurant-analytics.streamlit.app
+Dashboard Link: [https://maishanyun-restaurant-analytics.streamlit.app](https://maishanyun-analytics.streamlit.app)
 
 A comprehensive business intelligence platform designed for Mai Shan Yun restaurant to optimize inventory management, forecast ingredient demand, and support data-driven business decisions.
 
